@@ -221,5 +221,83 @@
     "description": "La digitalización amplía el acceso y reordena condiciones de comparación antes conjeturales.",
     "include_demo": true,
     "demo_priority": 1
+  },
+  {
+    "id": "ev_1826_audouin_egypte",
+    "label": "Audouin publica crustáceos de Egipto en la Description de l'Égypte",
+    "date_start": "1826",
+    "date_end": "1826",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "pub_audouin_1826_crustaces_egypte",
+      "pub_egypte_1809_description"
+    ],
+    "place_ids": [
+      "plc_paris",
+      "plc_egipto"
+    ],
+    "institution_ids": [
+      "inst_bnf_gallica"
+    ],
+    "description": "Audouin contribuye a la Description de l'Égypte; establece la clasificación de crustáceos egipcios en el contexto del naturalismo napoleónico.",
+    "include_demo": true,
+    "demo_priority": 2
+  },
+  {
+    "id": "ev_1836_Regne_animal",
+    "label": "Publicación de Le règne animal (edición 1836) con colaboradores del Muséum",
+    "date_start": "1836",
+    "date_end": "1836",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "pub_cuvier_1836_Regne_animal",
+      "img_138_planche_14_races_humanes_races",
+      "img_139_planche_14_races_humanes_races"
+    ],
+    "place_ids": [
+      "plc_paris"
+    ],
+    "institution_ids": [
+      "inst_biodiversity_heritage_library"
+    ],
+    "description": "La edición de 1836 reúne a Audouin, Blanchard, Deshayes, Valenciennes y Roulin en una gran síntesis clasificatoria del reino animal.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1837_pole_sud",
+    "label": "Dumont d'Urville parte en expedición al Pôle Sud y Oceanía",
+    "date_start": "1837",
+    "date_end": "1840",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "pub_pole_sud_1842_voyage",
+      "pub_blanchard_1853_insectes"
+    ],
+    "place_ids": [
+      "plc_antartida",
+      "plc_oceania"
+    ],
+    "institution_ids": [],
+    "description": "Expedición naval francesa que documenta Antártida y Pacífico; produce atlas de zoología con colaboración de Blanchard.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1836_venus",
+    "label": "Du Petit-Thouars parte en el viaje de La Vénus alrededor del mundo",
+    "date_start": "1836",
+    "date_end": "1839",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "pub_venus_1841_voyage"
+    ],
+    "place_ids": [
+      "plc_oceania"
+    ],
+    "institution_ids": [],
+    "description": "Viaje de circunnavegación de la fragata La Vénus; produce atlas zoológico con ictiología de Valenciennes y atlas pintoresco.",
+    "include_demo": true,
+    "demo_priority": 1
   }
 ]

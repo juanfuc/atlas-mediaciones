@@ -123,3 +123,19 @@ ep_0121,pub_dorbigny_1836_voyage_pittoresque,plc_san_francisco,custody_place,ins
 ep_0122,pub_combes_1929_roulin,plc_paris,publication_place,,documentada,Combes 1929,Derivado del lugar asociado al texto/publicación.,quindio_supia,yes,no
 ep_0123,pub_roulin_1865_histoire_naturelle,plc_paris,publication_place,,documentada,"Roulin 1865, p. 263",Derivado del lugar asociado al texto/publicación.,quindio_supia,yes,no
 ep_0124,img_peoner_i_andisca_bergen,plc_quindio,represented_place,,inferida,"Karl August Gosselman, Resa i Colombia, åren 1825 och 1826 (Estocolmo, 1827). Dato proveniente de red previa/pantallazo; revisar fuente.",Derivado del campo place_ids de la base v1; revisar rol si entra en demo.,quindio_supia,yes,yes
+ep_0125,pub_cuvier_1836_Regne_animal,plc_paris,publication_place,,documentada,Cuvier et al. 1836,Lugar de publicación del Règne animal 1836.,Regne_animal,yes,no
+ep_0126,pub_egypte_1809_description,plc_paris,publication_place,,documentada,Commission des sciences et arts d'Égypte 1809-1828,Lugar de publicación de la Description de l'Égypte.,egypte,yes,no
+ep_0127,pub_egypte_1809_description,plc_egipto,represented_place,,documentada,Commission des sciences et arts d'Égypte 1809-1828,Egipto y Siria como territorio documentado y representado.,egypte,yes,no
+ep_0128,pub_audouin_1826_crustaces_egypte,plc_paris,publication_place,,documentada,Description de l'Égypte / Audouin 1826,Lugar de publicación de la sección de crustáceos.,egypte,yes,no
+ep_0129,pub_audouin_1826_crustaces_egypte,plc_egipto,represented_place,,documentada,Description de l'Égypte / Audouin 1826,Egipto y Siria como región representada en los crustáceos.,egypte,yes,no
+ep_0130,pub_algerie_1844_exploration,plc_paris,publication_place,,documentada,Commission scientifique de l'Algérie 1844-1848,Lugar de publicación de la Exploration scientifique de l'Algérie.,algerie,yes,no
+ep_0131,pub_algerie_1844_exploration,plc_argelia,represented_place,,documentada,Commission scientifique de l'Algérie 1844-1848,Argelia como región representada y explorada.,algerie,yes,no
+ep_0132,pub_moree_1832_expedition,plc_paris,publication_place,,documentada,Expédition scientifique de Morée 1832-1838,Lugar de publicación de la Expédition de Morée.,moree,yes,no
+ep_0133,pub_moree_1832_expedition,plc_morea,represented_place,,documentada,Expédition scientifique de Morée 1832-1838,Morea/Grecia como región representada y explorada.,moree,yes,no
+ep_0134,pub_pole_sud_1842_voyage,plc_paris,publication_place,,documentada,Dumont d'Urville 1842-1854,Lugar de publicación del Voyage au Pôle Sud.,pole_sud,yes,no
+ep_0135,pub_pole_sud_1842_voyage,plc_antartida,represented_place,,documentada,Dumont d'Urville 1842-1854,Antártida como región representada en la expedición.,pole_sud,yes,no
+ep_0136,pub_pole_sud_1842_voyage,plc_oceania,represented_place,,documentada,Dumont d'Urville 1842-1854,Oceanía y Pacífico como región representada en la expedición.,pole_sud,yes,no
+ep_0137,pub_blanchard_1853_insectes,plc_paris,publication_place,,documentada,Blanchard 1853 in Voyage au Pôle Sud,Lugar de publicación de la sección de insectos.,pole_sud,no,no
+ep_0138,pub_blanchard_1853_insectes,plc_antartida,represented_place,,documentada,Blanchard 1853 in Voyage au Pôle Sud,Insectos de Antártida y Oceanía.,pole_sud,no,no
+ep_0139,pub_venus_1841_voyage,plc_paris,publication_place,,documentada,Du Petit-Thouars 1841-1855,Lugar de publicación del Voyage sur La Vénus.,venus,yes,no
+ep_0140,pub_venus_1841_voyage,plc_oceania,represented_place,,documentada,Du Petit-Thouars 1841-1855,Pacífico y Oceanía como regiones del viaje de La Vénus.,venus,yes,no

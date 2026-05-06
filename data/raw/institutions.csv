@@ -14,3 +14,5 @@ inst_royal_geographical_society,royal_geographical_society,Royal Geographical So
 inst_uchile_libros,uchile_libros,Libros Universidad de Chile,repositorio editorial digital,Santiago de Chile,Chile,-33.444,-70.6505,aproximada,Repositorio editorial digital de la Universidad de Chile.,https://libros.uchile.cl/
 inst_wellcome_collection,wellcome_collection,Wellcome Collection,biblioteca/archivo,Londres,Reino Unido,51.525,-0.133,aproximada,Repositorio digital/físico asociado a un ítem del corpus.,https://wellcomecollection.org/
 inst_worldcat,worldcat,WorldCat,catálogo digital,,,,,no_aplica,Catálogo digital; no se usa como lugar de custodia física.,https://worldcat.org/
+inst_hathitrust,hathitrust,HathiTrust Digital Library,biblioteca digital,,,,,no_aplica,Repositorio digital consorcial de universidades; acceso a digitalizaciones de obras de historia natural y viajes.,https://www.hathitrust.org/
+inst_bibliotheca_alexandrina,bibliotheca_alexandrina,Bibliotheca Alexandrina,biblioteca,Alejandría,Egipto,31.2089,29.9089,aproximada,Biblioteca de Alejandría; repositorio de patrimonio cultural del Mediterráneo y África del Norte.,https://www.bibalex.org/

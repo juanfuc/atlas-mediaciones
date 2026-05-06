@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T15:10:36.849Z",
+  "generated_at": "2026-05-06T20:29:10.637Z",
   "files_processed": {
     "inputs": [
       "data/raw/entities.csv",
@@ -24,18 +24,18 @@
     ]
   },
   "counts": {
-    "entities": 74,
-    "entities_demo": 28,
-    "relations": 282,
-    "relations_demo": 94,
-    "agents": 23,
-    "places": 21,
-    "institutions": 15,
-    "entity_places": 124,
-    "events": 11,
-    "geojson_features": 17,
-    "graph_nodes": 115,
-    "graph_edges": 282,
+    "entities": 82,
+    "entities_demo": 35,
+    "relations": 311,
+    "relations_demo": 119,
+    "agents": 30,
+    "places": 26,
+    "institutions": 17,
+    "entity_places": 140,
+    "events": 15,
+    "geojson_features": 22,
+    "graph_nodes": 130,
+    "graph_edges": 311,
     "vocab_relations": 22,
     "vocab_place_roles": 10,
     "vocab_confidence": 3

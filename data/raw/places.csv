@@ -20,3 +20,8 @@ plc_san_francisco,san_francisco,San Francisco,ciudad,37.7749,-122.4194,Estados U
 plc_santa_marta,santa_marta,Santa Marta,ciudad,11.2408,-74.199,Colombia,Nueva Granada,Lugar representado en Le dîner à Ste. Marthe.
 plc_santiago_chile,santiago_chile,Santiago de Chile,ciudad,-33.4489,-70.6693,Chile,Chile,Lugar de custodia de acuarelas Giast en Archivo Central Andrés Bello.
 plc_supia,supia,Supía,lugar,5.4537,-75.6507,Colombia,Nueva Granada,Cantón aurífero asociado a observaciones y visualizaciones mineras/geológicas.
+plc_egipto,egipto,Egipto y Siria,región,27.0,30.0,Egipto,,Región representada en la Description de l'Égypte y en los Crustacés de l'Égypte et de la Syrie de Audouin.
+plc_argelia,argelia,Argelia,país,28.0,3.0,Argelia,,Región representada en la Exploration scientifique de l'Algérie; contexto de misión científica colonial francesa.
+plc_morea,morea,Morea / Grecia,región,37.5,22.5,Grecia,Mediterráneo oriental,Región representada en la Expédition scientifique de Morée; vinculada a la formación del estado griego moderno.
+plc_antartida,antartida,Antártida,región,-70.0,-60.0,,,Región representada en el Voyage au Pôle Sud et dans l'Océanie de Dumont d'Urville.
+plc_oceania,oceania,Oceanía y Pacífico,región,-20.0,160.0,,,Región representada en el Voyage au Pôle Sud et dans l'Océanie y el Voyage autour du monde sur La Vénus.
