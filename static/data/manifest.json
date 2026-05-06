@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-05-06T15:10:36.849Z",
+  "files_processed": {
+    "inputs": [
+      "data/raw/entities.csv",
+      "data/raw/relations.csv",
+      "data/raw/agents.csv",
+      "data/raw/places.csv",
+      "data/raw/institutions.csv",
+      "data/raw/entity_places.csv",
+      "data/raw/events.csv",
+      "data/raw/vocab_relations.csv",
+      "data/raw/vocab_place_roles.csv",
+      "data/raw/vocab_confidence.csv"
+    ],
+    "outputs": [
+      "static/data/entities.json",
+      "static/data/relations.json",
+      "static/data/graph.json",
+      "static/data/map.geojson",
+      "static/data/timeline.json",
+      "static/data/vocabularies.json",
+      "static/data/roulin.jsonld"
+    ]
+  },
+  "counts": {
+    "entities": 74,
+    "entities_demo": 28,
+    "relations": 282,
+    "relations_demo": 94,
+    "agents": 23,
+    "places": 21,
+    "institutions": 15,
+    "entity_places": 124,
+    "events": 11,
+    "geojson_features": 17,
+    "graph_nodes": 115,
+    "graph_edges": 282,
+    "vocab_relations": 22,
+    "vocab_place_roles": 10,
+    "vocab_confidence": 3
+  },
+  "warnings": [],
+  "warnings_by_type": {},
+  "warnings_total": 0
+}

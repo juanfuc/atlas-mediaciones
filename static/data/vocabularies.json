@@ -1,0 +1,227 @@
+{
+  "vocab_relations": [
+    {
+      "id": "fue_creado_por",
+      "label": "fue creado por",
+      "domain": "Imagen|Texto|Publicacion",
+      "range": "Agente",
+      "description": "Autoría o creación registrada."
+    },
+    {
+      "id": "fue_atribuido_a",
+      "label": "fue atribuido a",
+      "domain": "Imagen|Texto",
+      "range": "Agente",
+      "description": "Atribución autoral no necesariamente cerrada."
+    },
+    {
+      "id": "fue_grabado_por",
+      "label": "fue grabado por",
+      "domain": "Imagen",
+      "range": "Agente",
+      "description": "Relación de grabado o ejecución gráfica."
+    },
+    {
+      "id": "se_conserva_en",
+      "label": "se conserva en",
+      "domain": "Imagen|Texto|Publicacion",
+      "range": "Institucion",
+      "description": "Custodia física o institucional."
+    },
+    {
+      "id": "esta_disponible_en",
+      "label": "está disponible en",
+      "domain": "Imagen|Texto|Publicacion",
+      "range": "Repositorio",
+      "description": "Disponibilidad digital o catálogo."
+    },
+    {
+      "id": "representa_lugar",
+      "label": "representa lugar",
+      "domain": "Imagen|Texto",
+      "range": "Lugar",
+      "description": "Lugar representado o asociado al contenido."
+    },
+    {
+      "id": "pertenece_a_cluster_modelo",
+      "label": "pertenece a cluster modelo",
+      "domain": "Imagen",
+      "range": "Concepto curatorial",
+      "description": "Agrupación heredada del campo modelo; no implica relación directa."
+    },
+    {
+      "id": "sirve_de_modelo_a",
+      "label": "sirve de modelo a",
+      "domain": "Imagen",
+      "range": "Imagen",
+      "description": "Relación de modelo visual directa o inferida."
+    },
+    {
+      "id": "comparte_motivo_con",
+      "label": "comparte motivo con",
+      "domain": "Imagen",
+      "range": "Imagen",
+      "description": "Coincidencia iconográfica/compositiva sin afirmar derivación."
+    },
+    {
+      "id": "se_contextualiza_por",
+      "label": "se contextualiza por",
+      "domain": "Imagen|Texto",
+      "range": "Texto|Publicacion",
+      "description": "Relación contextual documentada o inferida."
+    },
+    {
+      "id": "fue_traducido_o_recompuesto_en",
+      "label": "fue traducido o recompuesto en",
+      "domain": "Texto",
+      "range": "Publicacion",
+      "description": "Traducción, recomposición o mediación editorial."
+    },
+    {
+      "id": "menciona_instrumento",
+      "label": "menciona instrumento",
+      "domain": "Texto",
+      "range": "Instrumento",
+      "description": "Relación textual con instrumento técnico."
+    },
+    {
+      "id": "menciona",
+      "label": "menciona",
+      "domain": "Texto|Publicacion",
+      "range": "Imagen|Agente|Concepto",
+      "description": "Mención textual documentada."
+    },
+    {
+      "id": "compara_con",
+      "label": "compara con",
+      "domain": "Texto|Imagen",
+      "range": "Concepto|Imagen|Texto",
+      "description": "Operación comparativa."
+    },
+    {
+      "id": "toma_como_referencia",
+      "label": "toma como referencia",
+      "domain": "Texto|Imagen",
+      "range": "Texto|Imagen|Publicacion",
+      "description": "Relación de referencia, modelo o respaldo."
+    },
+    {
+      "id": "describe_o_modela",
+      "label": "describe o modela",
+      "domain": "Texto|Publicacion",
+      "range": "Concepto|Taxon",
+      "description": "Relación entre publicación y objeto/concepto modelado."
+    },
+    {
+      "id": "forma_parte_de",
+      "label": "forma parte de",
+      "domain": "Imagen|Texto",
+      "range": "Publicacion|Conjunto",
+      "description": "Pertenencia a publicación, conjunto o expediente."
+    },
+    {
+      "id": "reorienta_hacia",
+      "label": "reorienta hacia",
+      "domain": "Texto|Publicacion|Mediacion",
+      "range": "Concepto",
+      "description": "Cambio de función hacia finalidad técnica, administrativa o pedagógica."
+    },
+    {
+      "id": "evidencia_funcion",
+      "label": "evidencia función",
+      "domain": "Imagen|Texto|Publicacion",
+      "range": "Concepto",
+      "description": "Asigna función interpretativa: testimonio, plantilla, inscripción probatoria."
+    },
+    {
+      "id": "usa_modelo_visual_asociado_a",
+      "label": "usa modelo visual asociado a",
+      "domain": "Imagen",
+      "range": "Concepto curatorial|Imagen",
+      "description": "Marca asociación curatorial con un modelo visual cuando todavía no se ha determinado la fuente directa."
+    },
+    {
+      "id": "deriva_de",
+      "label": "deriva de",
+      "domain": "Imagen",
+      "range": "Imagen",
+      "description": "Relación de derivación visual directa, usada solo cuando la fuente o inferencia especifica un vínculo directo."
+    },
+    {
+      "id": "deriva_indirectamente_de",
+      "label": "deriva indirectamente de",
+      "domain": "Imagen",
+      "range": "Imagen",
+      "description": "Relación calculable por recorrido de grafo; evitar como dato primario salvo necesidad de visualización."
+    }
+  ],
+  "vocab_place_roles": [
+    {
+      "id": "represented_place",
+      "label": "lugar representado",
+      "description": "Lugar mostrado o figurado por una imagen o descrito como escenario por una fuente."
+    },
+    {
+      "id": "production_place",
+      "label": "lugar de producción",
+      "description": "Lugar donde se produjo, dibujó, tomó apuntes o creó el recurso."
+    },
+    {
+      "id": "observation_place",
+      "label": "lugar de observación",
+      "description": "Lugar asociado al acto de observación que sustenta una inscripción."
+    },
+    {
+      "id": "publication_place",
+      "label": "lugar de publicación",
+      "description": "Lugar de edición, impresión o publicación."
+    },
+    {
+      "id": "custody_place",
+      "label": "lugar de custodia",
+      "description": "Lugar físico de la institución o repositorio que conserva el recurso."
+    },
+    {
+      "id": "digitization_place",
+      "label": "lugar de digitalización",
+      "description": "Lugar institucional asociado a la digitalización o puesta en línea, cuando puede determinarse."
+    },
+    {
+      "id": "comparison_place",
+      "label": "lugar de comparación",
+      "description": "Lugar usado en una operación comparativa, no necesariamente representado ni producido allí."
+    },
+    {
+      "id": "circulation_place",
+      "label": "lugar de circulación",
+      "description": "Lugar por el que pasa, se reusa o se reinscribe el recurso."
+    },
+    {
+      "id": "represented_or_discussed_place",
+      "label": "lugar representado o discutido",
+      "description": "Rol provisional cuando un texto o publicación tiene un lugar discutido pero requiere revisión."
+    },
+    {
+      "id": "associated_place",
+      "label": "lugar asociado",
+      "description": "Rol genérico provisional para entidades no visuales o no documentales."
+    }
+  ],
+  "vocab_confidence": [
+    {
+      "id": "documentada",
+      "label": "documentada",
+      "description": "Relación o dato sustentado explícitamente por fuente, catálogo, signatura, publicación o referencia localizable."
+    },
+    {
+      "id": "inferida",
+      "label": "inferida",
+      "description": "Relación o dato sustentado por comparación, contexto editorial, atribución historiográfica o encadenamiento razonado."
+    },
+    {
+      "id": "hipotetica",
+      "label": "hipotética",
+      "description": "Relación propuesta como hipótesis interpretativa; debe mostrarse como discutible."
+    }
+  ]
+}

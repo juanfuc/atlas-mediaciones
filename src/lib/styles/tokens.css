@@ -1,0 +1,59 @@
+/* ── Paleta ───────────────────────────────────────────────────── */
+:root {
+  --c-bg:        #F4EFE6;
+  --c-text:      #1A1814;
+  --c-secondary: #6B6661;
+  --c-accent:    #8C3B22;
+  --c-line:      #D8CFC2;
+  --c-surface:   #EDE8DE;
+
+  /* ── Tipografía ─────────────────────────────────────────────── */
+  --f-serif: Georgia, "Times New Roman", serif;
+  --f-sans:  system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --f-mono:  "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+
+  /* ── Espaciado ──────────────────────────────────────────────── */
+  --sp-xs:  0.25rem;
+  --sp-sm:  0.5rem;
+  --sp-md:  1rem;
+  --sp-lg:  1.5rem;
+  --sp-xl:  2.5rem;
+  --sp-2xl: 4rem;
+
+  --radius:  3px;
+  --max-w:   1200px;
+}
+
+/* ── Reset mínimo ────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background: var(--c-bg);
+  color: var(--c-text);
+  font-family: var(--f-sans);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--f-serif);
+  font-weight: normal;
+  line-height: 1.2;
+}
+
+a {
+  color: var(--c-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,11 @@
+﻿id,label,description
+represented_place,lugar representado,Lugar mostrado o figurado por una imagen o descrito como escenario por una fuente.
+production_place,lugar de producción,"Lugar donde se produjo, dibujó, tomó apuntes o creó el recurso."
+observation_place,lugar de observación,Lugar asociado al acto de observación que sustenta una inscripción.
+publication_place,lugar de publicación,"Lugar de edición, impresión o publicación."
+custody_place,lugar de custodia,Lugar físico de la institución o repositorio que conserva el recurso.
+digitization_place,lugar de digitalización,"Lugar institucional asociado a la digitalización o puesta en línea, cuando puede determinarse."
+comparison_place,lugar de comparación,"Lugar usado en una operación comparativa, no necesariamente representado ni producido allí."
+circulation_place,lugar de circulación,"Lugar por el que pasa, se reusa o se reinscribe el recurso."
+represented_or_discussed_place,lugar representado o discutido,Rol provisional cuando un texto o publicación tiene un lugar discutido pero requiere revisión.
+associated_place,lugar asociado,Rol genérico provisional para entidades no visuales o no documentales.

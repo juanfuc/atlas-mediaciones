@@ -1,0 +1,225 @@
+[
+  {
+    "id": "ev_1812_cuvier",
+    "label": "Cuvier publica Recherches sur les ossemens fossiles, t. 3",
+    "date_start": "1812",
+    "date_end": "1812",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "pub_cuvier_1812_ossemens_fossiles",
+      "tax_palaeotherium"
+    ],
+    "place_ids": [
+      "plc_paris"
+    ],
+    "institution_ids": [],
+    "description": "Modelo osteológico que permite articular comparación anatómica y tiempo profundo.",
+    "include_demo": true,
+    "demo_priority": 2
+  },
+  {
+    "id": "ev_1823_1824_quindio",
+    "label": "Roulin produce el dibujo del campamento/cargueros del Quindío",
+    "date_start": "1824",
+    "date_end": "1824",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "img_011_campamento_camino_quindio"
+    ],
+    "place_ids": [
+      "plc_quindio"
+    ],
+    "institution_ids": [
+      "inst_banrep"
+    ],
+    "description": "Inscripción visual situada que luego entra en cadenas de derivación y reuso editorial.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1823_1824_bogota",
+    "label": "Roulin dibuja Place de St. Victorin, à Bogotá",
+    "date_start": "1823",
+    "date_end": "1823",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "img_ap4088_place_st_victorin_bogota"
+    ],
+    "place_ids": [
+      "plc_bogota"
+    ],
+    "institution_ids": [
+      "inst_banrep"
+    ],
+    "description": "Imagen clave para mostrar recorte, tipo y recomposición en la cadena Giast.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1827_hamilton",
+    "label": "Hamilton publica Travels through the Interior Provinces of Columbia",
+    "date_start": "1827",
+    "date_end": "1827",
+    "layer": "circulacion_editorial",
+    "entity_ids": [
+      "img_014_view_pass_quindio_province_popayan"
+    ],
+    "place_ids": [
+      "plc_london",
+      "plc_quindio"
+    ],
+    "institution_ids": [
+      "inst_internet_archive"
+    ],
+    "description": "Reuso/derivación inferida del campamento de Roulin y nodo intermedio hacia derivaciones posteriores.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1829_roulin_tapir",
+    "label": "Roulin publica la memoria sobre el tapir",
+    "date_start": "1829",
+    "date_end": "1829",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "txt_roulin_1829a_memoire_tapir",
+      "tool_camara_lucida",
+      "tax_palaeotherium"
+    ],
+    "place_ids": [
+      "plc_paris"
+    ],
+    "institution_ids": [
+      "inst_biodiversity_heritage_library"
+    ],
+    "description": "Articula observación, instrumento óptico, anatomía comparada y tiempo profundo.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1829_roulin_magdelaine",
+    "label": "Roulin publica Recherches sur quelques changemens",
+    "date_start": "1829",
+    "date_end": "1829",
+    "layer": "siglo_xix_cientifico_comparativo",
+    "entity_ids": [
+      "txt_roulin_1829b_recherches_changemens",
+      "img_ap4080_bords_magdelaine_menage_d"
+    ],
+    "place_ids": [
+      "plc_paris",
+      "plc_rio_magdalena"
+    ],
+    "institution_ids": [
+      "inst_biodiversity_heritage_library"
+    ],
+    "description": "Cadena entre escena ribereña, observación publicada y traducción posterior.",
+    "include_demo": true,
+    "demo_priority": 2
+  },
+  {
+    "id": "ev_1830_giast",
+    "label": "Acuarelas atribuidas a Giast en el horizonte De Santiago a Mendoza",
+    "date_start": "1830",
+    "date_end": "1830",
+    "layer": "circulacion_editorial",
+    "entity_ids": [
+      "img_ci_vi_107_mujer_con_balde",
+      "img_ci_vi_113_caballero_tomando_te"
+    ],
+    "place_ids": [
+      "plc_santiago_chile",
+      "plc_mendoza"
+    ],
+    "institution_ids": [
+      "inst_archivo_central_andres_bello"
+    ],
+    "description": "Conjunto de atribución inestable donde reaparecen motivos/figuras con variaciones.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1836_dorbigny",
+    "label": "d’Orbigny publica Voyage pittoresque",
+    "date_start": "1836",
+    "date_end": "1836",
+    "layer": "circulacion_editorial",
+    "entity_ids": [
+      "pub_dorbigny_1836_voyage_pittoresque",
+      "img_022_passage_quindiu_entre_ibague_cartago",
+      "img_168_mines_vega_supia"
+    ],
+    "place_ids": [
+      "plc_paris",
+      "plc_quindio",
+      "plc_supia"
+    ],
+    "institution_ids": [
+      "inst_internet_archive"
+    ],
+    "description": "Recomposición editorial de materiales visuales americanos para gran público.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1849_acosta",
+    "label": "Acosta traduce y recompone Viajes científicos",
+    "date_start": "1849",
+    "date_end": "1849",
+    "layer": "mediacion_republicana",
+    "entity_ids": [
+      "pub_acosta_1849_viajes_cientificos",
+      "txt_roulin_1829b_recherches_changemens",
+      "img_168_mines_vega_supia"
+    ],
+    "place_ids": [
+      "plc_paris"
+    ],
+    "institution_ids": [],
+    "description": "Reorientación técnico-administrativa hacia enseñanza, fomento y gobierno.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_1940_del_carril_giast",
+    "label": "Del Carril adquiere y reorganiza el álbum De Santiago a Mendoza",
+    "date_start": "1940",
+    "date_end": "1940",
+    "layer": "patrimonializacion_siglo_xx",
+    "entity_ids": [
+      "img_ci_vi_107_mujer_con_balde",
+      "img_ci_vi_113_caballero_tomando_te"
+    ],
+    "place_ids": [
+      "plc_mendoza",
+      "plc_santiago_chile"
+    ],
+    "institution_ids": [
+      "inst_archivo_central_andres_bello"
+    ],
+    "description": "Capa patrimonial donde se estabiliza la atribución Giast y se reorganizan pertenencias nacionales.",
+    "include_demo": true,
+    "demo_priority": 1
+  },
+  {
+    "id": "ev_2003_roulin_dominio_publico",
+    "label": "Ingreso del corpus Roulin al dominio público y nueva comparabilidad digital",
+    "date_start": "2003",
+    "date_end": "2003",
+    "layer": "mediacion_digital_siglo_xxi",
+    "entity_ids": [
+      "img_ap4088_place_st_victorin_bogota",
+      "img_ap4080_bords_magdelaine_menage_d",
+      "img_011_campamento_camino_quindio"
+    ],
+    "place_ids": [
+      "plc_bogota"
+    ],
+    "institution_ids": [
+      "inst_banrep"
+    ],
+    "description": "La digitalización amplía el acceso y reordena condiciones de comparación antes conjeturales.",
+    "include_demo": true,
+    "demo_priority": 1
+  }
+]

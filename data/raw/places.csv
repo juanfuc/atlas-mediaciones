@@ -1,0 +1,22 @@
+﻿id,legacy_id,label,type,lat,lng,current_country,historical_region,description
+plc_bogota,bogota,Bogotá,ciudad,4.711,-74.0721,Colombia,Nueva Granada,Lugar de producción/representación y custodia de parte del corpus Roulin.
+plc_chile,chile,Chile,país,-35.6751,-71.543,Chile,,Ubicación amplia inferida del campo país; requiere precisión si el ítem entra en demo.
+plc_colombia,colombia,Colombia,país,4.5709,-74.2973,Colombia,,Ubicación amplia inferida del campo país; requiere precisión si el ítem entra en demo.
+plc_ecuador,ecuador,Ecuador,país,-1.8312,-78.1834,Ecuador,,Ubicación amplia inferida del campo país; requiere precisión si el ítem entra en demo.
+plc_france,france,Francia,país,46.2276,2.2137,Francia,,Ubicación amplia inferida del campo país; requiere precisión si el ítem entra en demo.
+plc_guaduas,guaduas,Guaduas,ciudad/camino,5.0669,-74.5981,Colombia,Nueva Granada,Lugar asociado al camino entre Honda y Bogotá.
+plc_honda,honda,Honda,ciudad,5.2086,-74.7358,Colombia,Nueva Granada,Lugar asociado al camino Honda-Bogotá y al mercado.
+plc_la_guaira,la_guaira,La Guaira,puerto,10.6,-66.9333,Venezuela,Gran Colombia,Puerto representado en el corpus.
+plc_london,london,Londres,ciudad,51.5072,-0.1276,Reino Unido,Inglaterra,Lugar de publicación/custodia de varias fuentes y repertorios.
+plc_mendoza,mendoza,Mendoza,ciudad,-32.8895,-68.8458,Argentina,Río de la Plata/Argentina,Lugar asociado al álbum De Santiago a Mendoza.
+plc_meta,meta,Llanos del Meta,región/río,3.7,-72.9,Colombia,Nueva Granada,Región vinculada a indios del Meta y Llanos de San Martín.
+plc_mompox,mompox,Mompox,ciudad,9.2394,-74.4267,Colombia,Nueva Granada,Lugar representado en escenas de mercado y ribera.
+plc_napo,napo,Camino del Napo,región/camino,-0.6667,-77.8333,Ecuador,Ecuador,Camino del Napo y Guacamayos en derivaciones ecuatorianas.
+plc_paris,paris,París,ciudad,48.8566,2.3522,Francia,Francia,Lugar de edición y publicación de varias mediaciones impresas.
+plc_quindio,quindio,Quindío,región/camino,4.5339,-75.6811,Colombia,Nueva Granada,"Camino andino asociado a cargueros, paso del Quindío y reusos visuales."
+plc_quito,quito,Quito,ciudad,-0.1807,-78.4678,Ecuador,Ecuador,Lugar de custodia/producción editorial ecuatoriana.
+plc_rio_magdalena,rio_magdalena,Río Magdalena,río/región,9.242,-74.753,Colombia,Nueva Granada,"Eje fluvial de observación, navegación y escenas ribereñas."
+plc_san_francisco,san_francisco,San Francisco,ciudad,37.7749,-122.4194,Estados Unidos,California,Ubicación institucional de Internet Archive; usar con cautela para repositorio digital.
+plc_santa_marta,santa_marta,Santa Marta,ciudad,11.2408,-74.199,Colombia,Nueva Granada,Lugar representado en Le dîner à Ste. Marthe.
+plc_santiago_chile,santiago_chile,Santiago de Chile,ciudad,-33.4489,-70.6693,Chile,Chile,Lugar de custodia de acuarelas Giast en Archivo Central Andrés Bello.
+plc_supia,supia,Supía,lugar,5.4537,-75.6507,Colombia,Nueva Granada,Cantón aurífero asociado a observaciones y visualizaciones mineras/geológicas.

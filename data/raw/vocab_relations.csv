@@ -1,0 +1,23 @@
+﻿id,label,domain,range,description
+fue_creado_por,fue creado por,Imagen|Texto|Publicacion,Agente,Autoría o creación registrada.
+fue_atribuido_a,fue atribuido a,Imagen|Texto,Agente,Atribución autoral no necesariamente cerrada.
+fue_grabado_por,fue grabado por,Imagen,Agente,Relación de grabado o ejecución gráfica.
+se_conserva_en,se conserva en,Imagen|Texto|Publicacion,Institucion,Custodia física o institucional.
+esta_disponible_en,está disponible en,Imagen|Texto|Publicacion,Repositorio,Disponibilidad digital o catálogo.
+representa_lugar,representa lugar,Imagen|Texto,Lugar,Lugar representado o asociado al contenido.
+pertenece_a_cluster_modelo,pertenece a cluster modelo,Imagen,Concepto curatorial,Agrupación heredada del campo modelo; no implica relación directa.
+sirve_de_modelo_a,sirve de modelo a,Imagen,Imagen,Relación de modelo visual directa o inferida.
+comparte_motivo_con,comparte motivo con,Imagen,Imagen,Coincidencia iconográfica/compositiva sin afirmar derivación.
+se_contextualiza_por,se contextualiza por,Imagen|Texto,Texto|Publicacion,Relación contextual documentada o inferida.
+fue_traducido_o_recompuesto_en,fue traducido o recompuesto en,Texto,Publicacion,"Traducción, recomposición o mediación editorial."
+menciona_instrumento,menciona instrumento,Texto,Instrumento,Relación textual con instrumento técnico.
+menciona,menciona,Texto|Publicacion,Imagen|Agente|Concepto,Mención textual documentada.
+compara_con,compara con,Texto|Imagen,Concepto|Imagen|Texto,Operación comparativa.
+toma_como_referencia,toma como referencia,Texto|Imagen,Texto|Imagen|Publicacion,"Relación de referencia, modelo o respaldo."
+describe_o_modela,describe o modela,Texto|Publicacion,Concepto|Taxon,Relación entre publicación y objeto/concepto modelado.
+forma_parte_de,forma parte de,Imagen|Texto,Publicacion|Conjunto,"Pertenencia a publicación, conjunto o expediente."
+reorienta_hacia,reorienta hacia,Texto|Publicacion|Mediacion,Concepto,"Cambio de función hacia finalidad técnica, administrativa o pedagógica."
+evidencia_funcion,evidencia función,Imagen|Texto|Publicacion,Concepto,"Asigna función interpretativa: testimonio, plantilla, inscripción probatoria."
+usa_modelo_visual_asociado_a,usa modelo visual asociado a,Imagen,Concepto curatorial|Imagen,Marca asociación curatorial con un modelo visual cuando todavía no se ha determinado la fuente directa.
+deriva_de,deriva de,Imagen,Imagen,"Relación de derivación visual directa, usada solo cuando la fuente o inferencia especifica un vínculo directo."
+deriva_indirectamente_de,deriva indirectamente de,Imagen,Imagen,Relación calculable por recorrido de grafo; evitar como dato primario salvo necesidad de visualización.

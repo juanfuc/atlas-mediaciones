@@ -1,0 +1,40 @@
+{
+	"name": "atlas-mediaciones",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"prebuild": "npm run build:data",
+		"build:data": "node scripts/build-data.js",
+		"validate:data": "node scripts/validate-data.js",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"lint": "prettier --check . && eslint .",
+		"format": "prettier --write ."
+	},
+	"devDependencies": {
+		"@eslint/compat": "^2.0.4",
+		"@eslint/js": "^10.0.1",
+		"@sveltejs/adapter-auto": "^7.0.1",
+		"@sveltejs/adapter-static": "^3.0.10",
+		"@sveltejs/kit": "^2.57.0",
+		"@sveltejs/vite-plugin-svelte": "^7.0.0",
+		"@types/node": "^22",
+		"eslint": "^10.2.0",
+		"eslint-config-prettier": "^10.1.8",
+		"eslint-plugin-svelte": "^3.17.0",
+		"globals": "^17.4.0",
+		"papaparse": "^5.5.3",
+		"prettier": "^3.8.1",
+		"prettier-plugin-svelte": "^3.5.1",
+		"svelte": "^5.55.2",
+		"vite": "^8.0.7"
+	},
+	"dependencies": {
+		"d3": "^7.9.0",
+		"leaflet": "^1.9.4",
+		"vis-network": "^10.0.2"
+	}
+}
