@@ -1,12 +1,25 @@
 <script>
 	import { base } from '$app/paths';
 	import ConfidenceBadge from '$lib/components/ConfidenceBadge.svelte';
+	import ImageViewer from '$lib/components/ImageViewer.svelte';
 
 	let { data } = $props();
 
 	const entityIdSet = $derived(new Set(data.entityIds));
 
 	let imgError = $state(false);
+	let viewerOpen = $state(false);
+
+	const hasViewer = $derived(
+		!!(data.entity.image_url || data.entity.iiif_url)
+	);
+	const imageFullUrl = $derived(
+		data.entity.iiif_url
+			? data.entity.iiif_url
+			: data.entity.image_url
+				? `${base}${data.entity.image_url}`
+				: ''
+	);
 
 	function formatDate(start, end) {
 		const fmt = (v) => {
@@ -44,14 +57,28 @@
 	<header class="entity-header">
 		<div class="entity-thumb">
 			{#if data.entity.image_url && !imgError}
-				<img
-					src="{base}{data.entity.image_url}"
-					alt={data.entity.label}
-					loading="eager"
-					onerror={() => {
-						imgError = true;
-					}}
-				/>
+				{#if hasViewer}
+					<button
+						class="thumb-btn"
+						onclick={() => { viewerOpen = true; }}
+						aria-label="Ampliar imagen: {data.entity.label}"
+					>
+						<img
+							src="{base}{data.entity.image_url}"
+							alt={data.entity.label}
+							loading="eager"
+							onerror={() => { imgError = true; }}
+						/>
+						<span class="thumb-hint">Clic para ampliar</span>
+					</button>
+				{:else}
+					<img
+						src="{base}{data.entity.image_url}"
+						alt={data.entity.label}
+						loading="eager"
+						onerror={() => { imgError = true; }}
+					/>
+				{/if}
 			{:else}
 				<div class="placeholder" aria-hidden="true"></div>
 			{/if}
@@ -97,6 +124,30 @@
 			</dl>
 		</div>
 	</header>
+
+	<!-- ── Visor de imagen ──────────────────────────────────── -->
+	{#if hasViewer && viewerOpen}
+		<section class="section viewer-section">
+			<div class="viewer-bar">
+				<button class="viewer-close" onclick={() => { viewerOpen = false; }}>
+					Cerrar visor ✕
+				</button>
+				<a
+					href={imageFullUrl}
+					target="_blank"
+					rel="noopener noreferrer"
+					class="viewer-new-tab"
+				>
+					Abrir imagen en pestaña nueva ↗
+				</a>
+			</div>
+			<ImageViewer
+				imageUrl={data.entity.iiif_url ? '' : imageFullUrl}
+				iiifUrl={data.entity.iiif_url || ''}
+				title={data.entity.label}
+			/>
+		</section>
+	{/if}
 
 	<!-- ── Descripción ───────────────────────────────────────── -->
 	{#if data.entity.description}
@@ -563,5 +614,85 @@
 		font-family: var(--f-mono);
 		font-size: 0.75rem;
 		color: var(--c-secondary);
+	}
+
+	/* ── Thumb interactivo ── */
+	.thumb-btn {
+		all: unset;
+		display: block;
+		width: 100%;
+		height: 100%;
+		cursor: zoom-in;
+		position: relative;
+	}
+
+	.thumb-btn img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		display: block;
+	}
+
+	.thumb-hint {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background: rgba(26, 24, 20, 0.62);
+		color: #f5f1ec;
+		font-size: 0.65rem;
+		text-align: center;
+		padding: 3px 4px;
+		letter-spacing: 0.03em;
+		opacity: 0;
+		transition: opacity 0.18s;
+	}
+
+	.thumb-btn:hover .thumb-hint,
+	.thumb-btn:focus-visible .thumb-hint {
+		opacity: 1;
+	}
+
+	/* ── Sección del visor ── */
+	.viewer-section {
+		padding-bottom: 0;
+	}
+
+	.viewer-bar {
+		display: flex;
+		align-items: center;
+		gap: var(--sp-md, 0.75rem);
+		margin-bottom: var(--sp-sm, 0.5rem);
+		flex-wrap: wrap;
+	}
+
+	.viewer-close {
+		all: unset;
+		cursor: pointer;
+		font-size: 0.8rem;
+		color: var(--c-secondary);
+		border: 1px solid var(--c-line);
+		border-radius: var(--radius, 4px);
+		padding: 0.25rem 0.6rem;
+		background: var(--c-surface);
+		transition: color 0.15s, border-color 0.15s;
+	}
+
+	.viewer-close:hover {
+		color: var(--c-text);
+		border-color: var(--c-secondary);
+	}
+
+	.viewer-new-tab {
+		font-size: 0.8rem;
+		color: var(--c-secondary);
+		text-decoration: none;
+		border-bottom: 1px solid transparent;
+		transition: color 0.15s, border-color 0.15s;
+	}
+
+	.viewer-new-tab:hover {
+		color: var(--c-accent);
+		border-color: currentColor;
 	}
 </style>

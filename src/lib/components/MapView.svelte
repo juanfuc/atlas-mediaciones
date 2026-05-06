@@ -20,33 +20,50 @@
 	let visiblePlaces = $state(0);
 	let visibleAssoc = $state(0);
 
-	// Roles actually present in the data (no inference)
+	// Roles actually present in the data, normalized to canonical values
 	const allRoles = $derived(
-		[...new Set(features.flatMap((f) => f.properties.place_roles ?? []))].sort()
+		[...new Set(features.flatMap((f) => (f.properties.place_roles ?? []).map(normalizeRole)))].sort()
 	);
+
+	// Normalize legacy hybrid role to canonical represented_place
+	function normalizeRole(r) {
+		return r === 'represented_or_discussed_place' ? 'represented_place' : r;
+	}
 
 	// Sobrio, warm-academic palette — one colour per role
 	const ROLE_COLOR = {
-		represented_place:              '#C9A07A',
-		represented_or_discussed_place: '#C0A98A',
-		custody_place:                  '#8CAAA8',
-		publication_place:              '#9DA88C',
-		production_place:               '#B4A0B0',
-		observation_place:              '#A8B0C4',
-		circulation_place:              '#BCA882',
-		digitization_place:             '#B0ACAC',
-		comparison_place:               '#C8B4A0'
+		represented_place:  '#C9A07A',
+		custody_place:      '#8CAAA8',
+		publication_place:  '#9DA88C',
+		production_place:   '#B4A0B0',
+		observation_place:  '#A8B0C4',
+		circulation_place:  '#BCA882',
+		digitization_place: '#B0ACAC',
+		comparison_place:   '#C8B4A0',
+		provenance_place:   '#C4B49A'
+	};
+
+	const ROLE_LABELS = {
+		represented_place:  'Lugar representado',
+		publication_place:  'Publicación',
+		custody_place:      'Custodia',
+		digitization_place: 'Digitalización',
+		provenance_place:   'Procedencia',
+		comparison_place:   'Comparación',
+		circulation_place:  'Circulación',
+		observation_place:  'Observación',
+		production_place:   'Producción'
 	};
 
 	function roleColor(roles) {
-		for (const r of roles) {
+		for (const r of roles.map(normalizeRole)) {
 			if (ROLE_COLOR[r]) return ROLE_COLOR[r];
 		}
 		return '#9E9890';
 	}
 
 	function roleName(r) {
-		return r.replace(/_/g, ' ');
+		return ROLE_LABELS[normalizeRole(r)] ?? r.replace(/_/g, ' ');
 	}
 
 	// ── Marker update ────────────────────────────────────────────────────────────
@@ -66,7 +83,7 @@
 			if (typeof lng !== 'number' || typeof lat !== 'number' || isNaN(lng) || isNaN(lat))
 				return false;
 			if (demo && !f.properties.include_demo) return false;
-			if (selRole && !(f.properties.place_roles ?? []).includes(selRole)) return false;
+			if (selRole && !(f.properties.place_roles ?? []).map(normalizeRole).includes(selRole)) return false;
 			return true;
 		});
 

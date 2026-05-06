@@ -43,8 +43,6 @@
 
 	// Labels always visible above this degree; others appear only on hover
 	const LABEL_MIN_DEGREE = 4;
-	// Edge visibility cap (corpus completo)
-	const FULL_LIMIT = 250;
 
 	// ── Graph filtering ───────────────────────────────────────────────────────────
 
@@ -57,11 +55,6 @@
 		if (selChain) fe = fe.filter((e) => e.chain === selChain);
 		if (selPredicate) fe = fe.filter((e) => e.predicate === selPredicate);
 		if (selConfidence) fe = fe.filter((e) => e.confidence === selConfidence);
-
-		if (!demo && fe.length > FULL_LIMIT) {
-			fe = fe.slice(0, FULL_LIMIT);
-			noticeText = `Corpus completo: limitado a ${FULL_LIMIT} relaciones para visualización. Use filtros para explorar.`;
-		}
 
 		const connIds = new Set();
 		fe.forEach((e) => { connIds.add(e.from); connIds.add(e.to); });

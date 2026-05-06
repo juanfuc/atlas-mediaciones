@@ -241,7 +241,7 @@
         "id": "plc_france",
         "label": "Francia",
         "place_roles": [
-          "represented_place"
+          "publication_place"
         ],
         "entities": [
           "img_138_planche_14_races_humanes_races",
@@ -266,8 +266,7 @@
         "id": "plc_rio_magdalena",
         "label": "Río Magdalena",
         "place_roles": [
-          "represented_place",
-          "represented_or_discussed_place"
+          "represented_place"
         ],
         "entities": [
           "img_ap2120_navegation_sur_magdalena",
