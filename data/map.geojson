@@ -1,0 +1,672 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_quindio",
+        "label": "Quindío",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_011_campamento_camino_quindio",
+          "img_014_view_pass_quindio_province_popayan",
+          "img_021_costumes_colombie",
+          "img_022_passage_quindiu_entre_ibague_cartago",
+          "img_025_silla_maniere_porter_voyageurs_dans",
+          "img_026_sin_titulo",
+          "img_027_die_silla",
+          "img_047_voyage_dos_dindie",
+          "img_124_tapir_pinchaque",
+          "img_125_tete_tapir_pinchaque",
+          "img_126_tete_tapir_cayenne",
+          "img_127_tete_tapir_sumatra",
+          "img_128_me_chinois_tapir_assis_meme",
+          "img_168_mines_vega_supia",
+          "img_peoner_i_andisca_bergen"
+        ],
+        "chains": [
+          "quindio_supia",
+          "tapir_palaeotherium"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6811,
+          4.5339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_bogota",
+        "label": "Bogotá",
+        "place_roles": [
+          "custody_place",
+          "represented_place"
+        ],
+        "entities": [
+          "img_011_campamento_camino_quindio",
+          "img_015_sin_titulo",
+          "img_ap2120_navegation_sur_magdalena",
+          "img_ap3676_champan_sur_magdalena",
+          "img_ap4076_bords_magdelaine",
+          "img_ap4077_bords_magdelaine_bal_petit",
+          "img_ap4078_bords_magdelaine_marche_mompox",
+          "img_ap4079_sin_titulo",
+          "img_ap4080_bords_magdelaine_menage_d",
+          "img_ap4081_bords_magdelaine_preparation_diner",
+          "img_ap4082_diner_ste_marthe",
+          "img_ap4083_entree_marche_honda",
+          "img_ap4084_montagne_sergent_entre_ville",
+          "img_ap4085_vagre_poisson_magdelaine_selles",
+          "img_ap4086_joueuse_harpe",
+          "img_ap4087_place_major_bogota_douane",
+          "img_ap4088_place_st_victorin_bogota",
+          "img_ap4089_porte_guayra",
+          "img_ap4090_danse_pays",
+          "img_157_dibujo_cuaderno_enlazando_toros",
+          "img_158_dibujo_cuaderno_toro",
+          "img_159_dibujo_cuaderno_perro",
+          "img_160_dibujo_cuaderno_cargueros_mina",
+          "img_161_dibujo_cuaderno_murcielago",
+          "img_162_dibujo_cuaderno_escena_familiar",
+          "img_163_escena_carnaval_bogota",
+          "img_co_agn_smp_4_uniformes_escuela_mineria",
+          "img_169_view_pass_honda_to_bogota",
+          "img_178_indiens_plaine_bogota",
+          "img_192_montaje_perros_obra_roulin",
+          "img_rgs425014_taking_chocolate_bogota"
+        ],
+        "chains": [
+          "quindio_supia",
+          "magdalena_observacion",
+          "corpus_ampliado",
+          "giast_archivo"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0721,
+          4.711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_san_francisco",
+        "label": "San Francisco",
+        "place_roles": [
+          "custody_place"
+        ],
+        "entities": [
+          "img_014_view_pass_quindio_province_popayan",
+          "img_021_costumes_colombie",
+          "img_022_passage_quindiu_entre_ibague_cartago",
+          "img_047_voyage_dos_dindie",
+          "img_168_mines_vega_supia",
+          "img_169_view_pass_honda_to_bogota",
+          "img_170_lassing_bulls",
+          "img_171_view_cabulla_on_river_suerez",
+          "img_172_passage_across_cabulla_suata",
+          "img_173_cottages_natives_at_hacienda_mondomo",
+          "img_177_colombie",
+          "img_178_indiens_plaine_bogota",
+          "img_179_dame_cordillere_dame_plaines",
+          "img_180_m_volaille_mendiant_manoevoore",
+          "img_181_pretre_riche_bourgeois_gen_chef",
+          "pub_dorbigny_1836_voyage_pittoresque"
+        ],
+        "chains": [
+          "quindio_supia",
+          "corpus_ampliado"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_colombia",
+        "label": "Colombia",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_015_sin_titulo",
+          "img_023_tabillo_maniere_dont_voyageurs_sont",
+          "img_024_passage_dun_torrent",
+          "img_ap4086_joueuse_harpe",
+          "img_ap4090_danse_pays",
+          "img_157_dibujo_cuaderno_enlazando_toros",
+          "img_158_dibujo_cuaderno_toro",
+          "img_159_dibujo_cuaderno_perro",
+          "img_160_dibujo_cuaderno_cargueros_mina",
+          "img_161_dibujo_cuaderno_murcielago",
+          "img_162_dibujo_cuaderno_escena_familiar",
+          "img_co_agn_smp_4_uniformes_escuela_mineria",
+          "img_170_lassing_bulls",
+          "img_171_view_cabulla_on_river_suerez",
+          "img_172_passage_across_cabulla_suata",
+          "img_173_cottages_natives_at_hacienda_mondomo",
+          "img_177_colombie",
+          "img_179_dame_cordillere_dame_plaines",
+          "img_180_m_volaille_mendiant_manoevoore",
+          "img_181_pretre_riche_bourgeois_gen_chef",
+          "img_192_montaje_perros_obra_roulin"
+        ],
+        "chains": [
+          "quindio_supia",
+          "corpus_ampliado"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_paris",
+        "label": "París",
+        "place_roles": [
+          "custody_place",
+          "publication_place"
+        ],
+        "entities": [
+          "img_023_tabillo_maniere_dont_voyageurs_sont",
+          "img_024_passage_dun_torrent",
+          "img_025_silla_maniere_porter_voyageurs_dans",
+          "txt_roulin_1829a_memoire_tapir",
+          "txt_roulin_1829b_recherches_changemens",
+          "pub_acosta_1849_viajes_cientificos",
+          "pub_cuvier_1812_ossemens_fossiles",
+          "pub_dorbigny_1836_voyage_pittoresque",
+          "pub_combes_1929_roulin",
+          "pub_roulin_1865_histoire_naturelle",
+          "pub_cuvier_1836_Regne_animal",
+          "pub_egypte_1809_description",
+          "pub_audouin_1826_crustaces_egypte",
+          "pub_algerie_1844_exploration",
+          "pub_moree_1832_expedition",
+          "pub_pole_sud_1842_voyage",
+          "pub_blanchard_1853_insectes",
+          "pub_venus_1841_voyage"
+        ],
+        "chains": [
+          "corpus_ampliado",
+          "quindio_supia",
+          "tapir_palaeotherium",
+          "magdalena_observacion",
+          "mediacion_republicana",
+          "Regne_animal",
+          "egypte",
+          "algerie",
+          "moree",
+          "pole_sud",
+          "venus"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_france",
+        "label": "Francia",
+        "place_roles": [
+          "publication_place"
+        ],
+        "entities": [
+          "img_138_planche_14_races_humanes_races",
+          "img_139_planche_14_races_humanes_races"
+        ],
+        "chains": [
+          "tapir_palaeotherium"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_rio_magdalena",
+        "label": "Río Magdalena",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_ap2120_navegation_sur_magdalena",
+          "img_ap3676_champan_sur_magdalena",
+          "img_ap4076_bords_magdelaine",
+          "img_ap4077_bords_magdelaine_bal_petit",
+          "img_ap4078_bords_magdelaine_marche_mompox",
+          "img_ap4079_sin_titulo",
+          "img_ap4080_bords_magdelaine_menage_d",
+          "img_ap4081_bords_magdelaine_preparation_diner",
+          "img_ap4082_diner_ste_marthe",
+          "img_ap4083_entree_marche_honda",
+          "img_ap4085_vagre_poisson_magdelaine_selles",
+          "txt_roulin_1829b_recherches_changemens"
+        ],
+        "chains": [
+          "magdalena_observacion",
+          "corpus_ampliado",
+          "quindio_supia"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.753,
+          9.242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_mompox",
+        "label": "Mompox",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_ap4078_bords_magdelaine_marche_mompox"
+        ],
+        "chains": [
+          "magdalena_observacion"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4267,
+          9.2394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_santa_marta",
+        "label": "Santa Marta",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_ap4082_diner_ste_marthe"
+        ],
+        "chains": [
+          "corpus_ampliado"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.199,
+          11.2408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_honda",
+        "label": "Honda",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_ap4083_entree_marche_honda",
+          "img_ap4084_montagne_sergent_entre_ville",
+          "img_169_view_pass_honda_to_bogota"
+        ],
+        "chains": [
+          "corpus_ampliado",
+          "quindio_supia"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7358,
+          5.2086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_guaduas",
+        "label": "Guaduas",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_ap4084_montagne_sergent_entre_ville"
+        ],
+        "chains": [
+          "corpus_ampliado"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5981,
+          5.0669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_la_guaira",
+        "label": "La Guaira",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_ap4089_porte_guayra"
+        ],
+        "chains": [
+          "corpus_ampliado"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9333,
+          10.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_london",
+        "label": "Londres",
+        "place_roles": [
+          "custody_place"
+        ],
+        "entities": [
+          "img_163_escena_carnaval_bogota",
+          "img_rgs425014_taking_chocolate_bogota"
+        ],
+        "chains": [
+          "corpus_ampliado",
+          "giast_archivo"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_supia",
+        "label": "Supía",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_168_mines_vega_supia"
+        ],
+        "chains": [
+          "quindio_supia"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6507,
+          5.4537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_napo",
+        "label": "Camino del Napo",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_300_camino_napo",
+          "img_301_camino_napo_subida_guacamayos"
+        ],
+        "chains": [
+          "corpus_ampliado"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8333,
+          -0.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_quito",
+        "label": "Quito",
+        "place_roles": [
+          "custody_place"
+        ],
+        "entities": [
+          "img_300_camino_napo"
+        ],
+        "chains": [
+          "corpus_ampliado"
+        ],
+        "include_demo": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4678,
+          -0.1807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_chile",
+        "label": "Chile",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "img_ci_vi_107_mujer_con_balde",
+          "img_ci_vi_113_caballero_tomando_te"
+        ],
+        "chains": [
+          "giast_archivo"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.543,
+          -35.6751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_egipto",
+        "label": "Egipto y Siria",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "pub_egypte_1809_description",
+          "pub_audouin_1826_crustaces_egypte"
+        ],
+        "chains": [
+          "egypte"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_argelia",
+        "label": "Argelia",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "pub_algerie_1844_exploration"
+        ],
+        "chains": [
+          "algerie"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_morea",
+        "label": "Morea / Grecia",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "pub_moree_1832_expedition"
+        ],
+        "chains": [
+          "moree"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5,
+          37.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_antartida",
+        "label": "Antártida",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "pub_pole_sud_1842_voyage",
+          "pub_blanchard_1853_insectes"
+        ],
+        "chains": [
+          "pole_sud"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60,
+          -70
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plc_oceania",
+        "label": "Oceanía y Pacífico",
+        "place_roles": [
+          "represented_place"
+        ],
+        "entities": [
+          "pub_pole_sud_1842_voyage",
+          "pub_venus_1841_voyage"
+        ],
+        "chains": [
+          "pole_sud",
+          "venus"
+        ],
+        "include_demo": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160,
+          -20
+        ]
+      }
+    }
+  ]
+}

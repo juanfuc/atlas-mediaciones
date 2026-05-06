@@ -1,0 +1,4156 @@
+{
+  "nodes": [
+    {
+      "id": "img_011_campamento_camino_quindio",
+      "label": "Campamento camino del Quindio",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_014_view_pass_quindio_province_popayan",
+      "label": "View of the pass from Quindio. In the province of Popayan & cargueros (or carriers) who travel it",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_015_sin_titulo",
+      "label": "[Carguero]",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_021_costumes_colombie",
+      "label": "Costumes / Colombie",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_022_passage_quindiu_entre_ibague_cartago",
+      "label": "Le passage du Quindiu entre Ibague y Cartago",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_023_tabillo_maniere_dont_voyageurs_sont",
+      "label": "El Tabillo: Maniére dont les voyageurs sont portés á dos d’homme dans les envirous de Pasto",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_024_passage_dun_torrent",
+      "label": "Passage d’un torrent",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_025_silla_maniere_porter_voyageurs_dans",
+      "label": "La silla: maniére de porter les voyageurs dans le Quindiu",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_026_sin_titulo",
+      "label": "[Carguero]",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_027_die_silla",
+      "label": "Die Silla",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_047_voyage_dos_dindie",
+      "label": "Voyage a dos d’indie",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_124_tapir_pinchaque",
+      "label": "Tapir Pinchaque",
+      "type": "Imagen",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_125_tete_tapir_pinchaque",
+      "label": "Tete du Tapir Pinchaque",
+      "type": "Imagen",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_126_tete_tapir_cayenne",
+      "label": "Tete du Tapir Du Cayenne",
+      "type": "Imagen",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_127_tete_tapir_sumatra",
+      "label": "Tete du Tapir de Sumatra",
+      "type": "Imagen",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_128_me_chinois_tapir_assis_meme",
+      "label": "Me de Chinois, Tapir assis, Le meme transforme en Griffon",
+      "type": "Imagen",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_138_planche_14_races_humanes_races",
+      "label": "Planche 14. Races Humanes. Races Americaines. Indiens du Bassin de l'Orinoque",
+      "type": "Imagen",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_139_planche_14_races_humanes_races",
+      "label": "Planche 14. Races Humanes. Races Americaines. Indiens du Bassin de l'Orinoque",
+      "type": "Imagen",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap2120_navegation_sur_magdalena",
+      "label": "Navegation sur la Magdalena (Navegación en el Magdalena)",
+      "type": "Imagen",
+      "chain": "magdalena_observacion",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap3676_champan_sur_magdalena",
+      "label": "Champan sur la Magdalena (Champán en el Magdalena)",
+      "type": "Imagen",
+      "chain": "magdalena_observacion",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4076_bords_magdelaine",
+      "label": "Bords de la Magdelaine (Orillas del Magdalena)",
+      "type": "Imagen",
+      "chain": "magdalena_observacion",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4077_bords_magdelaine_bal_petit",
+      "label": "Bords de la Magdelaine. Le bal du petit ange (Orillas del Magdalena. El baile del angelito)",
+      "type": "Imagen",
+      "chain": "magdalena_observacion",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4078_bords_magdelaine_marche_mompox",
+      "label": "Bords de la Magdelaine. Marché à Mompox (Orillas del Magdalena. Mercado en Mompox)",
+      "type": "Imagen",
+      "chain": "magdalena_observacion",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4079_sin_titulo",
+      "label": "(Orillas del Magdalena. Balsa : canoa llamada champán)",
+      "type": "Imagen",
+      "chain": "magdalena_observacion",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4080_bords_magdelaine_menage_d",
+      "label": "Bords de la Magdelaine. Ménage d'une famille de pêcheur (Orillas del Magdalena. Hogar de una familia de pescadores)",
+      "type": "Imagen",
+      "chain": "magdalena_observacion",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4081_bords_magdelaine_preparation_diner",
+      "label": "Bords de la Magdelaine. Préparation du dîner (Orillas del Magdalena. Preparación de la cena)",
+      "type": "Imagen",
+      "chain": "magdalena_observacion",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4082_diner_ste_marthe",
+      "label": "Le dîner à Ste. Marthe (La cena en Santa Marta)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4083_entree_marche_honda",
+      "label": "Entrée du marché de Honda (Entrada del mercado de Honda)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4084_montagne_sergent_entre_ville",
+      "label": "La montagne du Sergent, entre la ville de Honda et Guaduás (La montaña del Sargento, entre la ciudad de Honda y Guaduas)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4085_vagre_poisson_magdelaine_selles",
+      "label": "Le Vagre, poisson de la Magdelaine. Selles, ustensiles (El bagre, pescado del Magdalena. Sillas, utensilios)",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4086_joueuse_harpe",
+      "label": "La joueuse de harpe (La intérprete de harpa)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4087_place_major_bogota_douane",
+      "label": "Place Major de Bogotá. Douane (Plaza Mayor de Bogotá. Aduana)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4088_place_st_victorin_bogota",
+      "label": "Place de St. Victorin, à Bogotá (Plaza de San Victorino, en Bogotá)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4089_porte_guayra",
+      "label": "Porte de la Guayra (Puerto de la Guaira)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ap4090_danse_pays",
+      "label": "Danse du pays (Baile típico)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_157_dibujo_cuaderno_enlazando_toros",
+      "label": "Dibujo en cuaderno. Enlazando toros",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_158_dibujo_cuaderno_toro",
+      "label": "Dibujo en cuaderno, toro",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_159_dibujo_cuaderno_perro",
+      "label": "Dibujo en cuaderno, perro",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_160_dibujo_cuaderno_cargueros_mina",
+      "label": "Dibujo en cuaderno, cargueros en mina",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_161_dibujo_cuaderno_murcielago",
+      "label": "Dibujo en cuaderno, murciélago",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_162_dibujo_cuaderno_escena_familiar",
+      "label": "Dibujo en cuaderno, escena familiar",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_163_escena_carnaval_bogota",
+      "label": "Una escena de Carnaval en Bogotá",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_co_agn_smp_4_uniformes_escuela_mineria",
+      "label": "Uniformes para la Escuela de Minería",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_168_mines_vega_supia",
+      "label": "Mines de la Vega de Supia",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_169_view_pass_honda_to_bogota",
+      "label": "View of the Pass From Honda to Bogotá",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_170_lassing_bulls",
+      "label": "Lassing the Bulls",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_171_view_cabulla_on_river_suerez",
+      "label": "View of a Cabulla on the river Suerez",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_172_passage_across_cabulla_suata",
+      "label": "Passage Across the Cabulla of Suatá",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_173_cottages_natives_at_hacienda_mondomo",
+      "label": "Cottages and Natives at Hacienda Mondomo",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_177_colombie",
+      "label": "Colombie",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_178_indiens_plaine_bogota",
+      "label": "Indiens de la plaine de Bogota (Indígenas de la Sabana de Bogotá)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_179_dame_cordillere_dame_plaines",
+      "label": "Dame de la Cordillere. Dame des Plaines ( Dama de la cordillera. Dama de la sabana)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_180_m_volaille_mendiant_manoevoore",
+      "label": "M de Volaille. Mendiant. Manoevoore (Vendedora de aves. Mendigo)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_181_pretre_riche_bourgeois_gen_chef",
+      "label": "Prétre. Riche Bourgeois. Gen. en chef de la Repúblique. (Sacerdote. Rico burgués. Gral en jefe de la República)",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_192_montaje_perros_obra_roulin",
+      "label": "Montaje de los perros en la obra de Roulin",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_300_camino_napo",
+      "label": "En el Camino del Napo",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_301_camino_napo_subida_guacamayos",
+      "label": "Camino del Napo. Subida de Guacamayos",
+      "type": "Imagen",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_ci_vi_107_mujer_con_balde",
+      "label": "Mujer con Balde",
+      "type": "Imagen",
+      "chain": "giast_archivo",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_ci_vi_113_caballero_tomando_te",
+      "label": "Caballero tomando Té",
+      "type": "Imagen",
+      "chain": "giast_archivo",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "img_rgs425014_taking_chocolate_bogota",
+      "label": "Taking Chocolate in Bogotá",
+      "type": "Imagen",
+      "chain": "giast_archivo",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "txt_roulin_1829a_memoire_tapir",
+      "label": "Mémoire pour servir à l'histoire du tapir",
+      "type": "Texto",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "txt_roulin_1829b_recherches_changemens",
+      "label": "Recherches sur quelques changemens observés dans les animaux domestiques",
+      "type": "Texto",
+      "chain": "magdalena_observacion",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_acosta_1849_viajes_cientificos",
+      "label": "Viajes científicos a los Andes ecuatoriales",
+      "type": "Publicacion",
+      "chain": "mediacion_republicana",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_cuvier_1812_ossemens_fossiles",
+      "label": "Recherches sur les ossemens fossiles, t. 3",
+      "type": "Publicacion",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_dorbigny_1836_voyage_pittoresque",
+      "label": "Voyage pittoresque dans les deux Amériques",
+      "type": "Publicacion",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_combes_1929_roulin",
+      "label": "Pauvre et aventureuse bourgeoisie: Roulin et ses amis (1796–1874)",
+      "type": "Publicacion",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_roulin_1865_histoire_naturelle",
+      "label": "Histoire naturelle et souvenirs de voyage",
+      "type": "Publicacion",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "tool_camara_lucida",
+      "label": "Cámara lúcida",
+      "type": "Instrumento",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "tax_palaeotherium",
+      "label": "Palaeotherium",
+      "type": "Concepto/Taxon",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "con_modelo_roulin_cluster",
+      "label": "Cluster modelo Roulin",
+      "type": "Concepto curatorial",
+      "chain": "corpus_ampliado",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "con_testimonio",
+      "label": "Testimonio",
+      "type": "Concepto",
+      "chain": "conceptos",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "con_plantilla",
+      "label": "Plantilla",
+      "type": "Concepto",
+      "chain": "conceptos",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "con_inscripcion_probatoria",
+      "label": "Inscripción probatoria",
+      "type": "Concepto",
+      "chain": "conceptos",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "img_peoner_i_andisca_bergen",
+      "label": "Peoner i andisca bergen",
+      "type": "Imagen",
+      "chain": "quindio_supia",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_cuvier_1836_Regne_animal",
+      "label": "Le règne animal distribué d'après son organisation (1836)",
+      "type": "Publicacion",
+      "chain": "Regne_animal",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_egypte_1809_description",
+      "label": "Description de l'Égypte",
+      "type": "Publicacion",
+      "chain": "egypte",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_audouin_1826_crustaces_egypte",
+      "label": "Explication sommaire des planches de Crustacés de l'Égypte et de la Syrie",
+      "type": "Publicacion",
+      "chain": "egypte",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_algerie_1844_exploration",
+      "label": "Exploration scientifique de l'Algérie",
+      "type": "Publicacion",
+      "chain": "algerie",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_moree_1832_expedition",
+      "label": "Expédition scientifique de Morée. Section des sciences physiques",
+      "type": "Publicacion",
+      "chain": "moree",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_pole_sud_1842_voyage",
+      "label": "Voyage au Pôle Sud et dans l'Océanie",
+      "type": "Publicacion",
+      "chain": "pole_sud",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "pub_blanchard_1853_insectes",
+      "label": "Voyage au Pôle Sud: Description des insectes",
+      "type": "Publicacion",
+      "chain": "pole_sud",
+      "include_demo": false,
+      "source": "entity"
+    },
+    {
+      "id": "pub_venus_1841_voyage",
+      "label": "Voyage autour du monde sur la frégate La Vénus",
+      "type": "Publicacion",
+      "chain": "venus",
+      "include_demo": true,
+      "source": "entity"
+    },
+    {
+      "id": "agt_roulin",
+      "label": "François-Désiré Roulin",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "inst_banrep",
+      "label": "Banco de la República / Colección de Arte",
+      "type": "archivo/museo",
+      "chain": null,
+      "include_demo": true,
+      "source": "institution"
+    },
+    {
+      "id": "plc_quindio",
+      "label": "Quindío",
+      "type": "región/camino",
+      "chain": null,
+      "include_demo": true,
+      "source": "place"
+    },
+    {
+      "id": "agt_hamilton_john_potter",
+      "label": "John Potter Hamilton",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "agt_finden_edward_francis",
+      "label": "Edward Francis Finden",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "inst_internet_archive",
+      "label": "Internet Archive",
+      "type": "biblioteca digital",
+      "chain": null,
+      "include_demo": true,
+      "source": "institution"
+    },
+    {
+      "id": "agt_anonimo",
+      "label": "Anónimo",
+      "type": "persona/colectivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "inst_museo_nacional_colombia",
+      "label": "Museo Nacional de Colombia",
+      "type": "museo",
+      "chain": null,
+      "include_demo": false,
+      "source": "institution"
+    },
+    {
+      "id": "plc_colombia",
+      "label": "Colombia",
+      "type": "país",
+      "chain": null,
+      "include_demo": false,
+      "source": "place"
+    },
+    {
+      "id": "agt_dorbigny_alcide",
+      "label": "Alcide d’Orbigny",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "agt_de_lattre_a",
+      "label": "A. de Lattre",
+      "type": "persona/colectivo",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "inst_bnf_gallica",
+      "label": "Bibliothèque nationale de France / Gallica",
+      "type": "biblioteca digital",
+      "chain": null,
+      "include_demo": true,
+      "source": "institution"
+    },
+    {
+      "id": "agt_cordech",
+      "label": "Cordech",
+      "type": "persona/colectivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "inst_google_books",
+      "label": "Google Books",
+      "type": "repositorio digital",
+      "chain": null,
+      "include_demo": false,
+      "source": "institution"
+    },
+    {
+      "id": "agt_rose_ahc",
+      "label": "AHC. Rose",
+      "type": "persona/colectivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "inst_desconocido",
+      "label": "Repositorio / institución por revisar",
+      "type": "pendiente",
+      "chain": null,
+      "include_demo": false,
+      "source": "institution"
+    },
+    {
+      "id": "agt_etienne_cp",
+      "label": "C. P. Étienne",
+      "type": "persona/colectivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "inst_biodiversity_heritage_library",
+      "label": "Biodiversity Heritage Library",
+      "type": "biblioteca digital",
+      "chain": null,
+      "include_demo": true,
+      "source": "institution"
+    },
+    {
+      "id": "agt_cuvier_georges",
+      "label": "Georges Cuvier",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "plc_france",
+      "label": "Francia",
+      "type": "país",
+      "chain": null,
+      "include_demo": true,
+      "source": "place"
+    },
+    {
+      "id": "plc_rio_magdalena",
+      "label": "Río Magdalena",
+      "type": "río/región",
+      "chain": null,
+      "include_demo": true,
+      "source": "place"
+    },
+    {
+      "id": "plc_mompox",
+      "label": "Mompox",
+      "type": "ciudad",
+      "chain": null,
+      "include_demo": false,
+      "source": "place"
+    },
+    {
+      "id": "plc_santa_marta",
+      "label": "Santa Marta",
+      "type": "ciudad",
+      "chain": null,
+      "include_demo": false,
+      "source": "place"
+    },
+    {
+      "id": "plc_honda",
+      "label": "Honda",
+      "type": "ciudad",
+      "chain": null,
+      "include_demo": false,
+      "source": "place"
+    },
+    {
+      "id": "plc_guaduas",
+      "label": "Guaduas",
+      "type": "ciudad/camino",
+      "chain": null,
+      "include_demo": false,
+      "source": "place"
+    },
+    {
+      "id": "plc_bogota",
+      "label": "Bogotá",
+      "type": "ciudad",
+      "chain": null,
+      "include_demo": true,
+      "source": "place"
+    },
+    {
+      "id": "plc_la_guaira",
+      "label": "La Guaira",
+      "type": "puerto",
+      "chain": null,
+      "include_demo": false,
+      "source": "place"
+    },
+    {
+      "id": "inst_wellcome_collection",
+      "label": "Wellcome Collection",
+      "type": "biblioteca/archivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "institution"
+    },
+    {
+      "id": "inst_archivo_general_nacion_colombia",
+      "label": "Archivo General de la Nación de Colombia",
+      "type": "archivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "institution"
+    },
+    {
+      "id": "plc_supia",
+      "label": "Supía",
+      "type": "lugar",
+      "chain": null,
+      "include_demo": true,
+      "source": "place"
+    },
+    {
+      "id": "agt_lallement_m",
+      "label": "M. Lallement",
+      "type": "persona/colectivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "agt_tardieu_pierre",
+      "label": "Pierre Tardieu",
+      "type": "persona/colectivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "agt_legrand_grabador",
+      "label": "Legrand",
+      "type": "persona/colectivo",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "inst_museo_nacional_ecuador",
+      "label": "Museo Nacional de Ecuador",
+      "type": "museo",
+      "chain": null,
+      "include_demo": false,
+      "source": "institution"
+    },
+    {
+      "id": "plc_napo",
+      "label": "Camino del Napo",
+      "type": "región/camino",
+      "chain": null,
+      "include_demo": false,
+      "source": "place"
+    },
+    {
+      "id": "agt_villavicencio_manuel",
+      "label": "Manuel Villavicencio",
+      "type": "persona",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "agt_giast_alphonse",
+      "label": "Alphonse Giast",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "inst_archivo_central_andres_bello",
+      "label": "Archivo Central Andrés Bello, Universidad de Chile",
+      "type": "archivo",
+      "chain": null,
+      "include_demo": true,
+      "source": "institution"
+    },
+    {
+      "id": "plc_chile",
+      "label": "Chile",
+      "type": "país",
+      "chain": null,
+      "include_demo": true,
+      "source": "place"
+    },
+    {
+      "id": "agt_brown_joseph",
+      "label": "Joseph Brown",
+      "type": "persona",
+      "chain": null,
+      "include_demo": false,
+      "source": "agent"
+    },
+    {
+      "id": "inst_royal_geographical_society",
+      "label": "Royal Geographical Society",
+      "type": "archivo/biblioteca",
+      "chain": null,
+      "include_demo": false,
+      "source": "institution"
+    },
+    {
+      "id": "agt_audouin_jean_victor",
+      "label": "Jean-Victor Audouin",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "agt_blanchard_emile",
+      "label": "Émile Blanchard",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "agt_deshayes_gerard_paul",
+      "label": "Gérard Paul Deshayes",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "agt_valenciennes_achille",
+      "label": "Achille Valenciennes",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "agt_bory_de_saint_vincent",
+      "label": "Bory de Saint-Vincent",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "agt_dumont_durville_jules",
+      "label": "Jules Dumont d'Urville",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    },
+    {
+      "id": "agt_du_petit_thouars_abel",
+      "label": "Abel Aubert du Petit-Thouars",
+      "type": "persona",
+      "chain": null,
+      "include_demo": true,
+      "source": "agent"
+    }
+  ],
+  "edges": [
+    {
+      "id": "rel_0001",
+      "from": "img_011_campamento_camino_quindio",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0002",
+      "from": "img_011_campamento_camino_quindio",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0003",
+      "from": "img_011_campamento_camino_quindio",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0004",
+      "from": "img_011_campamento_camino_quindio",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0005",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "agt_hamilton_john_potter",
+      "label": "fue atribuido a",
+      "predicate": "fue_atribuido_a",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0006",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "agt_finden_edward_francis",
+      "label": "fue atribuido a",
+      "predicate": "fue_atribuido_a",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0007",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0008",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0009",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0010",
+      "from": "img_015_sin_titulo",
+      "to": "agt_anonimo",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0011",
+      "from": "img_015_sin_titulo",
+      "to": "inst_museo_nacional_colombia",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0012",
+      "from": "img_015_sin_titulo",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0013",
+      "from": "img_015_sin_titulo",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0014",
+      "from": "img_021_costumes_colombie",
+      "to": "agt_anonimo",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0015",
+      "from": "img_021_costumes_colombie",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0016",
+      "from": "img_021_costumes_colombie",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0017",
+      "from": "img_021_costumes_colombie",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0018",
+      "from": "img_022_passage_quindiu_entre_ibague_cartago",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0019",
+      "from": "img_022_passage_quindiu_entre_ibague_cartago",
+      "to": "agt_dorbigny_alcide",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0020",
+      "from": "img_022_passage_quindiu_entre_ibague_cartago",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0021",
+      "from": "img_022_passage_quindiu_entre_ibague_cartago",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0022",
+      "from": "img_022_passage_quindiu_entre_ibague_cartago",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0023",
+      "from": "img_023_tabillo_maniere_dont_voyageurs_sont",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0024",
+      "from": "img_023_tabillo_maniere_dont_voyageurs_sont",
+      "to": "agt_de_lattre_a",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0025",
+      "from": "img_023_tabillo_maniere_dont_voyageurs_sont",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0026",
+      "from": "img_023_tabillo_maniere_dont_voyageurs_sont",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0027",
+      "from": "img_024_passage_dun_torrent",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0028",
+      "from": "img_024_passage_dun_torrent",
+      "to": "agt_de_lattre_a",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0029",
+      "from": "img_024_passage_dun_torrent",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0030",
+      "from": "img_024_passage_dun_torrent",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0031",
+      "from": "img_025_silla_maniere_porter_voyageurs_dans",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0032",
+      "from": "img_025_silla_maniere_porter_voyageurs_dans",
+      "to": "agt_de_lattre_a",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0033",
+      "from": "img_025_silla_maniere_porter_voyageurs_dans",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0034",
+      "from": "img_025_silla_maniere_porter_voyageurs_dans",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0035",
+      "from": "img_025_silla_maniere_porter_voyageurs_dans",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0036",
+      "from": "img_026_sin_titulo",
+      "to": "agt_cordech",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0037",
+      "from": "img_026_sin_titulo",
+      "to": "inst_google_books",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0038",
+      "from": "img_026_sin_titulo",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0039",
+      "from": "img_026_sin_titulo",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0040",
+      "from": "img_027_die_silla",
+      "to": "agt_rose_ahc",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0041",
+      "from": "img_027_die_silla",
+      "to": "inst_desconocido",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0042",
+      "from": "img_027_die_silla",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0043",
+      "from": "img_027_die_silla",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0044",
+      "from": "img_047_voyage_dos_dindie",
+      "to": "agt_etienne_cp",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0045",
+      "from": "img_047_voyage_dos_dindie",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0046",
+      "from": "img_047_voyage_dos_dindie",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0047",
+      "from": "img_047_voyage_dos_dindie",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0048",
+      "from": "img_124_tapir_pinchaque",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0049",
+      "from": "img_124_tapir_pinchaque",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0050",
+      "from": "img_124_tapir_pinchaque",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0051",
+      "from": "img_124_tapir_pinchaque",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0052",
+      "from": "img_125_tete_tapir_pinchaque",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0053",
+      "from": "img_125_tete_tapir_pinchaque",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0054",
+      "from": "img_125_tete_tapir_pinchaque",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0055",
+      "from": "img_125_tete_tapir_pinchaque",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0056",
+      "from": "img_126_tete_tapir_cayenne",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0057",
+      "from": "img_126_tete_tapir_cayenne",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0058",
+      "from": "img_126_tete_tapir_cayenne",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0059",
+      "from": "img_126_tete_tapir_cayenne",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0060",
+      "from": "img_127_tete_tapir_sumatra",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0061",
+      "from": "img_127_tete_tapir_sumatra",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0062",
+      "from": "img_127_tete_tapir_sumatra",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0063",
+      "from": "img_127_tete_tapir_sumatra",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0064",
+      "from": "img_128_me_chinois_tapir_assis_meme",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0065",
+      "from": "img_128_me_chinois_tapir_assis_meme",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0066",
+      "from": "img_128_me_chinois_tapir_assis_meme",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0067",
+      "from": "img_128_me_chinois_tapir_assis_meme",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0068",
+      "from": "img_138_planche_14_races_humanes_races",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0069",
+      "from": "img_138_planche_14_races_humanes_races",
+      "to": "agt_cuvier_georges",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0070",
+      "from": "img_138_planche_14_races_humanes_races",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0071",
+      "from": "img_138_planche_14_races_humanes_races",
+      "to": "plc_france",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0072",
+      "from": "img_139_planche_14_races_humanes_races",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0073",
+      "from": "img_139_planche_14_races_humanes_races",
+      "to": "agt_cuvier_georges",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0074",
+      "from": "img_139_planche_14_races_humanes_races",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0075",
+      "from": "img_139_planche_14_races_humanes_races",
+      "to": "plc_france",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0076",
+      "from": "img_ap2120_navegation_sur_magdalena",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0077",
+      "from": "img_ap2120_navegation_sur_magdalena",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0078",
+      "from": "img_ap2120_navegation_sur_magdalena",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0079",
+      "from": "img_ap2120_navegation_sur_magdalena",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0080",
+      "from": "img_ap3676_champan_sur_magdalena",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0081",
+      "from": "img_ap3676_champan_sur_magdalena",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0082",
+      "from": "img_ap3676_champan_sur_magdalena",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0083",
+      "from": "img_ap3676_champan_sur_magdalena",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0084",
+      "from": "img_ap4076_bords_magdelaine",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0085",
+      "from": "img_ap4076_bords_magdelaine",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0086",
+      "from": "img_ap4076_bords_magdelaine",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0087",
+      "from": "img_ap4076_bords_magdelaine",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0088",
+      "from": "img_ap4077_bords_magdelaine_bal_petit",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0089",
+      "from": "img_ap4077_bords_magdelaine_bal_petit",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0090",
+      "from": "img_ap4077_bords_magdelaine_bal_petit",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0091",
+      "from": "img_ap4077_bords_magdelaine_bal_petit",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0092",
+      "from": "img_ap4078_bords_magdelaine_marche_mompox",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0093",
+      "from": "img_ap4078_bords_magdelaine_marche_mompox",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0094",
+      "from": "img_ap4078_bords_magdelaine_marche_mompox",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0095",
+      "from": "img_ap4078_bords_magdelaine_marche_mompox",
+      "to": "plc_mompox",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0096",
+      "from": "img_ap4078_bords_magdelaine_marche_mompox",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0097",
+      "from": "img_ap4079_sin_titulo",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0098",
+      "from": "img_ap4079_sin_titulo",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0099",
+      "from": "img_ap4079_sin_titulo",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0100",
+      "from": "img_ap4079_sin_titulo",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0101",
+      "from": "img_ap4080_bords_magdelaine_menage_d",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0102",
+      "from": "img_ap4080_bords_magdelaine_menage_d",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0103",
+      "from": "img_ap4080_bords_magdelaine_menage_d",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0104",
+      "from": "img_ap4080_bords_magdelaine_menage_d",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0105",
+      "from": "img_ap4081_bords_magdelaine_preparation_diner",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0106",
+      "from": "img_ap4081_bords_magdelaine_preparation_diner",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0107",
+      "from": "img_ap4081_bords_magdelaine_preparation_diner",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0108",
+      "from": "img_ap4081_bords_magdelaine_preparation_diner",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0109",
+      "from": "img_ap4082_diner_ste_marthe",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0110",
+      "from": "img_ap4082_diner_ste_marthe",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0111",
+      "from": "img_ap4082_diner_ste_marthe",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0112",
+      "from": "img_ap4082_diner_ste_marthe",
+      "to": "plc_santa_marta",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0113",
+      "from": "img_ap4082_diner_ste_marthe",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0114",
+      "from": "img_ap4083_entree_marche_honda",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0115",
+      "from": "img_ap4083_entree_marche_honda",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0116",
+      "from": "img_ap4083_entree_marche_honda",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0117",
+      "from": "img_ap4083_entree_marche_honda",
+      "to": "plc_honda",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0118",
+      "from": "img_ap4083_entree_marche_honda",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0119",
+      "from": "img_ap4084_montagne_sergent_entre_ville",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0120",
+      "from": "img_ap4084_montagne_sergent_entre_ville",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0121",
+      "from": "img_ap4084_montagne_sergent_entre_ville",
+      "to": "plc_honda",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0122",
+      "from": "img_ap4084_montagne_sergent_entre_ville",
+      "to": "plc_guaduas",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0123",
+      "from": "img_ap4084_montagne_sergent_entre_ville",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0124",
+      "from": "img_ap4085_vagre_poisson_magdelaine_selles",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0125",
+      "from": "img_ap4085_vagre_poisson_magdelaine_selles",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0126",
+      "from": "img_ap4085_vagre_poisson_magdelaine_selles",
+      "to": "plc_rio_magdalena",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0127",
+      "from": "img_ap4085_vagre_poisson_magdelaine_selles",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0128",
+      "from": "img_ap4086_joueuse_harpe",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0129",
+      "from": "img_ap4086_joueuse_harpe",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0130",
+      "from": "img_ap4086_joueuse_harpe",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0131",
+      "from": "img_ap4086_joueuse_harpe",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0132",
+      "from": "img_ap4087_place_major_bogota_douane",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0133",
+      "from": "img_ap4087_place_major_bogota_douane",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0134",
+      "from": "img_ap4087_place_major_bogota_douane",
+      "to": "plc_bogota",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0135",
+      "from": "img_ap4087_place_major_bogota_douane",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0136",
+      "from": "img_ap4088_place_st_victorin_bogota",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0137",
+      "from": "img_ap4088_place_st_victorin_bogota",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0138",
+      "from": "img_ap4088_place_st_victorin_bogota",
+      "to": "plc_bogota",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0139",
+      "from": "img_ap4088_place_st_victorin_bogota",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0140",
+      "from": "img_ap4089_porte_guayra",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0141",
+      "from": "img_ap4089_porte_guayra",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0142",
+      "from": "img_ap4089_porte_guayra",
+      "to": "plc_la_guaira",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0143",
+      "from": "img_ap4089_porte_guayra",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0144",
+      "from": "img_ap4090_danse_pays",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0145",
+      "from": "img_ap4090_danse_pays",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0146",
+      "from": "img_ap4090_danse_pays",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0147",
+      "from": "img_ap4090_danse_pays",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0148",
+      "from": "img_157_dibujo_cuaderno_enlazando_toros",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0149",
+      "from": "img_157_dibujo_cuaderno_enlazando_toros",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0150",
+      "from": "img_157_dibujo_cuaderno_enlazando_toros",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0151",
+      "from": "img_157_dibujo_cuaderno_enlazando_toros",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0152",
+      "from": "img_158_dibujo_cuaderno_toro",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0153",
+      "from": "img_158_dibujo_cuaderno_toro",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0154",
+      "from": "img_158_dibujo_cuaderno_toro",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0155",
+      "from": "img_158_dibujo_cuaderno_toro",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0156",
+      "from": "img_159_dibujo_cuaderno_perro",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0157",
+      "from": "img_159_dibujo_cuaderno_perro",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0158",
+      "from": "img_159_dibujo_cuaderno_perro",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0159",
+      "from": "img_159_dibujo_cuaderno_perro",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0160",
+      "from": "img_160_dibujo_cuaderno_cargueros_mina",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0161",
+      "from": "img_160_dibujo_cuaderno_cargueros_mina",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0162",
+      "from": "img_160_dibujo_cuaderno_cargueros_mina",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0163",
+      "from": "img_160_dibujo_cuaderno_cargueros_mina",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0164",
+      "from": "img_161_dibujo_cuaderno_murcielago",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0165",
+      "from": "img_161_dibujo_cuaderno_murcielago",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0166",
+      "from": "img_161_dibujo_cuaderno_murcielago",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0167",
+      "from": "img_161_dibujo_cuaderno_murcielago",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0168",
+      "from": "img_162_dibujo_cuaderno_escena_familiar",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0169",
+      "from": "img_162_dibujo_cuaderno_escena_familiar",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0170",
+      "from": "img_162_dibujo_cuaderno_escena_familiar",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0171",
+      "from": "img_162_dibujo_cuaderno_escena_familiar",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0172",
+      "from": "img_163_escena_carnaval_bogota",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0173",
+      "from": "img_163_escena_carnaval_bogota",
+      "to": "inst_wellcome_collection",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0174",
+      "from": "img_163_escena_carnaval_bogota",
+      "to": "plc_bogota",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0175",
+      "from": "img_163_escena_carnaval_bogota",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0176",
+      "from": "img_co_agn_smp_4_uniformes_escuela_mineria",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0177",
+      "from": "img_co_agn_smp_4_uniformes_escuela_mineria",
+      "to": "inst_archivo_general_nacion_colombia",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0178",
+      "from": "img_co_agn_smp_4_uniformes_escuela_mineria",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0179",
+      "from": "img_co_agn_smp_4_uniformes_escuela_mineria",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0180",
+      "from": "img_168_mines_vega_supia",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0181",
+      "from": "img_168_mines_vega_supia",
+      "to": "agt_dorbigny_alcide",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0182",
+      "from": "img_168_mines_vega_supia",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0183",
+      "from": "img_168_mines_vega_supia",
+      "to": "plc_quindio",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0184",
+      "from": "img_168_mines_vega_supia",
+      "to": "plc_supia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0185",
+      "from": "img_168_mines_vega_supia",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0186",
+      "from": "img_169_view_pass_honda_to_bogota",
+      "to": "agt_hamilton_john_potter",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0187",
+      "from": "img_169_view_pass_honda_to_bogota",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0188",
+      "from": "img_169_view_pass_honda_to_bogota",
+      "to": "plc_honda",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0189",
+      "from": "img_169_view_pass_honda_to_bogota",
+      "to": "plc_bogota",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0190",
+      "from": "img_169_view_pass_honda_to_bogota",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0191",
+      "from": "img_170_lassing_bulls",
+      "to": "agt_hamilton_john_potter",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0192",
+      "from": "img_170_lassing_bulls",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0193",
+      "from": "img_170_lassing_bulls",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0194",
+      "from": "img_170_lassing_bulls",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0195",
+      "from": "img_171_view_cabulla_on_river_suerez",
+      "to": "agt_hamilton_john_potter",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0196",
+      "from": "img_171_view_cabulla_on_river_suerez",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0197",
+      "from": "img_171_view_cabulla_on_river_suerez",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0198",
+      "from": "img_171_view_cabulla_on_river_suerez",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0199",
+      "from": "img_172_passage_across_cabulla_suata",
+      "to": "agt_hamilton_john_potter",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0200",
+      "from": "img_172_passage_across_cabulla_suata",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0201",
+      "from": "img_172_passage_across_cabulla_suata",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0202",
+      "from": "img_172_passage_across_cabulla_suata",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0203",
+      "from": "img_173_cottages_natives_at_hacienda_mondomo",
+      "to": "agt_hamilton_john_potter",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0204",
+      "from": "img_173_cottages_natives_at_hacienda_mondomo",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0205",
+      "from": "img_173_cottages_natives_at_hacienda_mondomo",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0206",
+      "from": "img_173_cottages_natives_at_hacienda_mondomo",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0207",
+      "from": "img_177_colombie",
+      "to": "agt_lallement_m",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0208",
+      "from": "img_177_colombie",
+      "to": "agt_tardieu_pierre",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0209",
+      "from": "img_177_colombie",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0210",
+      "from": "img_177_colombie",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0211",
+      "from": "img_177_colombie",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0212",
+      "from": "img_178_indiens_plaine_bogota",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0213",
+      "from": "img_178_indiens_plaine_bogota",
+      "to": "agt_legrand_grabador",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0214",
+      "from": "img_178_indiens_plaine_bogota",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0215",
+      "from": "img_178_indiens_plaine_bogota",
+      "to": "plc_bogota",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0216",
+      "from": "img_178_indiens_plaine_bogota",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0217",
+      "from": "img_179_dame_cordillere_dame_plaines",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0218",
+      "from": "img_179_dame_cordillere_dame_plaines",
+      "to": "agt_legrand_grabador",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0219",
+      "from": "img_179_dame_cordillere_dame_plaines",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0220",
+      "from": "img_179_dame_cordillere_dame_plaines",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0221",
+      "from": "img_179_dame_cordillere_dame_plaines",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0222",
+      "from": "img_180_m_volaille_mendiant_manoevoore",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0223",
+      "from": "img_180_m_volaille_mendiant_manoevoore",
+      "to": "agt_legrand_grabador",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0224",
+      "from": "img_180_m_volaille_mendiant_manoevoore",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0225",
+      "from": "img_180_m_volaille_mendiant_manoevoore",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0226",
+      "from": "img_180_m_volaille_mendiant_manoevoore",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0227",
+      "from": "img_181_pretre_riche_bourgeois_gen_chef",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0228",
+      "from": "img_181_pretre_riche_bourgeois_gen_chef",
+      "to": "agt_legrand_grabador",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0229",
+      "from": "img_181_pretre_riche_bourgeois_gen_chef",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0230",
+      "from": "img_181_pretre_riche_bourgeois_gen_chef",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0231",
+      "from": "img_181_pretre_riche_bourgeois_gen_chef",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0232",
+      "from": "img_192_montaje_perros_obra_roulin",
+      "to": "agt_roulin",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0233",
+      "from": "img_192_montaje_perros_obra_roulin",
+      "to": "inst_banrep",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0234",
+      "from": "img_192_montaje_perros_obra_roulin",
+      "to": "plc_colombia",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0235",
+      "from": "img_192_montaje_perros_obra_roulin",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0236",
+      "from": "img_300_camino_napo",
+      "to": "agt_anonimo",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0237",
+      "from": "img_300_camino_napo",
+      "to": "inst_museo_nacional_ecuador",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0238",
+      "from": "img_300_camino_napo",
+      "to": "plc_napo",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0239",
+      "from": "img_300_camino_napo",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0240",
+      "from": "img_301_camino_napo_subida_guacamayos",
+      "to": "agt_villavicencio_manuel",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0241",
+      "from": "img_301_camino_napo_subida_guacamayos",
+      "to": "inst_google_books",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0242",
+      "from": "img_301_camino_napo_subida_guacamayos",
+      "to": "plc_napo",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0243",
+      "from": "img_301_camino_napo_subida_guacamayos",
+      "to": "con_modelo_roulin_cluster",
+      "label": "pertenece a cluster modelo",
+      "predicate": "pertenece_a_cluster_modelo",
+      "confidence": "documentada",
+      "chain": "corpus_ampliado",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0244",
+      "from": "img_ci_vi_107_mujer_con_balde",
+      "to": "agt_giast_alphonse",
+      "label": "fue atribuido a",
+      "predicate": "fue_atribuido_a",
+      "confidence": "inferida",
+      "chain": "giast_archivo",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0245",
+      "from": "img_ci_vi_107_mujer_con_balde",
+      "to": "inst_archivo_central_andres_bello",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "giast_archivo",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0246",
+      "from": "img_ci_vi_107_mujer_con_balde",
+      "to": "plc_chile",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "giast_archivo",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0247",
+      "from": "img_ci_vi_113_caballero_tomando_te",
+      "to": "agt_giast_alphonse",
+      "label": "fue atribuido a",
+      "predicate": "fue_atribuido_a",
+      "confidence": "inferida",
+      "chain": "giast_archivo",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0248",
+      "from": "img_ci_vi_113_caballero_tomando_te",
+      "to": "inst_archivo_central_andres_bello",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "giast_archivo",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0249",
+      "from": "img_ci_vi_113_caballero_tomando_te",
+      "to": "plc_chile",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "giast_archivo",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0250",
+      "from": "img_rgs425014_taking_chocolate_bogota",
+      "to": "agt_brown_joseph",
+      "label": "fue atribuido a",
+      "predicate": "fue_atribuido_a",
+      "confidence": "inferida",
+      "chain": "giast_archivo",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0251",
+      "from": "img_rgs425014_taking_chocolate_bogota",
+      "to": "inst_royal_geographical_society",
+      "label": "se conserva en",
+      "predicate": "se_conserva_en",
+      "confidence": "documentada",
+      "chain": "giast_archivo",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0252",
+      "from": "img_rgs425014_taking_chocolate_bogota",
+      "to": "plc_bogota",
+      "label": "representa lugar",
+      "predicate": "representa_lugar",
+      "confidence": "inferida",
+      "chain": "giast_archivo",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0253",
+      "from": "img_ap4088_place_st_victorin_bogota",
+      "to": "img_ci_vi_107_mujer_con_balde",
+      "label": "comparte motivo con",
+      "predicate": "comparte_motivo_con",
+      "confidence": "hipotetica",
+      "chain": "giast_archivo",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0254",
+      "from": "img_ci_vi_107_mujer_con_balde",
+      "to": "agt_giast_alphonse",
+      "label": "fue atribuido a",
+      "predicate": "fue_atribuido_a",
+      "confidence": "inferida",
+      "chain": "giast_archivo",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0255",
+      "from": "img_ap4088_place_st_victorin_bogota",
+      "to": "con_plantilla",
+      "label": "evidencia función",
+      "predicate": "evidencia_funcion",
+      "confidence": "hipotetica",
+      "chain": "giast_archivo",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0256",
+      "from": "txt_roulin_1829a_memoire_tapir",
+      "to": "tool_camara_lucida",
+      "label": "menciona instrumento",
+      "predicate": "menciona_instrumento",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0257",
+      "from": "txt_roulin_1829a_memoire_tapir",
+      "to": "tax_palaeotherium",
+      "label": "compara con",
+      "predicate": "compara_con",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0258",
+      "from": "pub_cuvier_1812_ossemens_fossiles",
+      "to": "tax_palaeotherium",
+      "label": "describe o modela",
+      "predicate": "describe_o_modela",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0259",
+      "from": "txt_roulin_1829a_memoire_tapir",
+      "to": "pub_cuvier_1812_ossemens_fossiles",
+      "label": "toma como referencia",
+      "predicate": "toma_como_referencia",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0260",
+      "from": "img_124_tapir_pinchaque",
+      "to": "txt_roulin_1829a_memoire_tapir",
+      "label": "se contextualiza por",
+      "predicate": "se_contextualiza_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0261",
+      "from": "img_125_tete_tapir_pinchaque",
+      "to": "txt_roulin_1829a_memoire_tapir",
+      "label": "se contextualiza por",
+      "predicate": "se_contextualiza_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0262",
+      "from": "img_126_tete_tapir_cayenne",
+      "to": "txt_roulin_1829a_memoire_tapir",
+      "label": "se contextualiza por",
+      "predicate": "se_contextualiza_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0263",
+      "from": "img_127_tete_tapir_sumatra",
+      "to": "txt_roulin_1829a_memoire_tapir",
+      "label": "se contextualiza por",
+      "predicate": "se_contextualiza_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0264",
+      "from": "img_128_me_chinois_tapir_assis_meme",
+      "to": "txt_roulin_1829a_memoire_tapir",
+      "label": "se contextualiza por",
+      "predicate": "se_contextualiza_por",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0265",
+      "from": "img_ap4080_bords_magdelaine_menage_d",
+      "to": "txt_roulin_1829b_recherches_changemens",
+      "label": "se contextualiza por",
+      "predicate": "se_contextualiza_por",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0266",
+      "from": "txt_roulin_1829b_recherches_changemens",
+      "to": "pub_acosta_1849_viajes_cientificos",
+      "label": "fue traducido o recompuesto en",
+      "predicate": "fue_traducido_o_recompuesto_en",
+      "confidence": "documentada",
+      "chain": "magdalena_observacion",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0267",
+      "from": "pub_acosta_1849_viajes_cientificos",
+      "to": "con_inscripcion_probatoria",
+      "label": "reorienta hacia",
+      "predicate": "reorienta_hacia",
+      "confidence": "inferida",
+      "chain": "mediacion_republicana",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0268",
+      "from": "img_011_campamento_camino_quindio",
+      "to": "img_014_view_pass_quindio_province_popayan",
+      "label": "sirve de modelo a",
+      "predicate": "sirve_de_modelo_a",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0269",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "img_015_sin_titulo",
+      "label": "sirve de modelo a",
+      "predicate": "sirve_de_modelo_a",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0270",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "img_021_costumes_colombie",
+      "label": "sirve de modelo a",
+      "predicate": "sirve_de_modelo_a",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0271",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "img_301_camino_napo_subida_guacamayos",
+      "label": "sirve de modelo a",
+      "predicate": "sirve_de_modelo_a",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0272",
+      "from": "img_peoner_i_andisca_bergen",
+      "to": "img_014_view_pass_quindio_province_popayan",
+      "label": "comparte motivo con",
+      "predicate": "comparte_motivo_con",
+      "confidence": "hipotetica",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0273",
+      "from": "img_011_campamento_camino_quindio",
+      "to": "img_022_passage_quindiu_entre_ibague_cartago",
+      "label": "sirve de modelo a",
+      "predicate": "sirve_de_modelo_a",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0274",
+      "from": "img_022_passage_quindiu_entre_ibague_cartago",
+      "to": "pub_dorbigny_1836_voyage_pittoresque",
+      "label": "forma parte de",
+      "predicate": "forma_parte_de",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0275",
+      "from": "img_168_mines_vega_supia",
+      "to": "pub_dorbigny_1836_voyage_pittoresque",
+      "label": "forma parte de",
+      "predicate": "forma_parte_de",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0276",
+      "from": "img_168_mines_vega_supia",
+      "to": "pub_acosta_1849_viajes_cientificos",
+      "label": "se contextualiza por",
+      "predicate": "se_contextualiza_por",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0277",
+      "from": "pub_roulin_1865_histoire_naturelle",
+      "to": "img_011_campamento_camino_quindio",
+      "label": "menciona",
+      "predicate": "menciona",
+      "confidence": "documentada",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0278",
+      "from": "img_011_campamento_camino_quindio",
+      "to": "con_testimonio",
+      "label": "evidencia función",
+      "predicate": "evidencia_funcion",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0279",
+      "from": "img_014_view_pass_quindio_province_popayan",
+      "to": "con_plantilla",
+      "label": "evidencia función",
+      "predicate": "evidencia_funcion",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0280",
+      "from": "img_022_passage_quindiu_entre_ibague_cartago",
+      "to": "con_plantilla",
+      "label": "evidencia función",
+      "predicate": "evidencia_funcion",
+      "confidence": "inferida",
+      "chain": "quindio_supia",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0281",
+      "from": "txt_roulin_1829a_memoire_tapir",
+      "to": "con_inscripcion_probatoria",
+      "label": "evidencia función",
+      "predicate": "evidencia_funcion",
+      "confidence": "inferida",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0282",
+      "from": "img_ap4080_bords_magdelaine_menage_d",
+      "to": "con_testimonio",
+      "label": "evidencia función",
+      "predicate": "evidencia_funcion",
+      "confidence": "inferida",
+      "chain": "magdalena_observacion",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0283",
+      "from": "pub_cuvier_1836_Regne_animal",
+      "to": "agt_cuvier_georges",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "Regne_animal",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0284",
+      "from": "pub_cuvier_1836_Regne_animal",
+      "to": "agt_audouin_jean_victor",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "Regne_animal",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0285",
+      "from": "pub_cuvier_1836_Regne_animal",
+      "to": "agt_blanchard_emile",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "Regne_animal",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0286",
+      "from": "pub_cuvier_1836_Regne_animal",
+      "to": "agt_deshayes_gerard_paul",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "Regne_animal",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0287",
+      "from": "pub_cuvier_1836_Regne_animal",
+      "to": "agt_valenciennes_achille",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "Regne_animal",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0288",
+      "from": "pub_cuvier_1836_Regne_animal",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "Regne_animal",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0289",
+      "from": "pub_cuvier_1836_Regne_animal",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "Regne_animal",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0290",
+      "from": "img_138_planche_14_races_humanes_races",
+      "to": "pub_cuvier_1836_Regne_animal",
+      "label": "forma parte de",
+      "predicate": "forma_parte_de",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0291",
+      "from": "img_139_planche_14_races_humanes_races",
+      "to": "pub_cuvier_1836_Regne_animal",
+      "label": "forma parte de",
+      "predicate": "forma_parte_de",
+      "confidence": "documentada",
+      "chain": "tapir_palaeotherium",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0292",
+      "from": "pub_egypte_1809_description",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "egypte",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0293",
+      "from": "pub_audouin_1826_crustaces_egypte",
+      "to": "agt_audouin_jean_victor",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "egypte",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0294",
+      "from": "pub_audouin_1826_crustaces_egypte",
+      "to": "pub_egypte_1809_description",
+      "label": "forma parte de",
+      "predicate": "forma_parte_de",
+      "confidence": "documentada",
+      "chain": "egypte",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0295",
+      "from": "pub_audouin_1826_crustaces_egypte",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "inferida",
+      "chain": "egypte",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0296",
+      "from": "pub_algerie_1844_exploration",
+      "to": "agt_deshayes_gerard_paul",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "algerie",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0297",
+      "from": "pub_algerie_1844_exploration",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "algerie",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0298",
+      "from": "pub_moree_1832_expedition",
+      "to": "agt_bory_de_saint_vincent",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "moree",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0299",
+      "from": "pub_moree_1832_expedition",
+      "to": "agt_deshayes_gerard_paul",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "moree",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0300",
+      "from": "pub_moree_1832_expedition",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "moree",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0301",
+      "from": "pub_moree_1832_expedition",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "moree",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0302",
+      "from": "pub_pole_sud_1842_voyage",
+      "to": "agt_dumont_durville_jules",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "pole_sud",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0303",
+      "from": "pub_pole_sud_1842_voyage",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "pole_sud",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0304",
+      "from": "pub_pole_sud_1842_voyage",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "pole_sud",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0305",
+      "from": "pub_blanchard_1853_insectes",
+      "to": "agt_blanchard_emile",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "pole_sud",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0306",
+      "from": "pub_blanchard_1853_insectes",
+      "to": "pub_pole_sud_1842_voyage",
+      "label": "forma parte de",
+      "predicate": "forma_parte_de",
+      "confidence": "documentada",
+      "chain": "pole_sud",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0307",
+      "from": "pub_blanchard_1853_insectes",
+      "to": "inst_biodiversity_heritage_library",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "pole_sud",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0308",
+      "from": "pub_blanchard_1853_insectes",
+      "to": "inst_bnf_gallica",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "pole_sud",
+      "include_demo": false
+    },
+    {
+      "id": "rel_0309",
+      "from": "pub_venus_1841_voyage",
+      "to": "agt_du_petit_thouars_abel",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "venus",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0310",
+      "from": "pub_venus_1841_voyage",
+      "to": "agt_valenciennes_achille",
+      "label": "fue creado por",
+      "predicate": "fue_creado_por",
+      "confidence": "documentada",
+      "chain": "venus",
+      "include_demo": true
+    },
+    {
+      "id": "rel_0311",
+      "from": "pub_venus_1841_voyage",
+      "to": "inst_internet_archive",
+      "label": "está disponible en",
+      "predicate": "esta_disponible_en",
+      "confidence": "documentada",
+      "chain": "venus",
+      "include_demo": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npm run *)",
+      "Bash(node -e \"const g=JSON.parse\\(require\\('fs'\\).readFileSync\\('static/data/graph.json','utf8'\\)\\); const r=JSON.parse\\(require\\('fs'\\).readFileSync\\('static/data/relations.json','utf8'\\)\\); console.log\\('nodes total:', g.nodes.length\\); console.log\\('edges total:', g.edges.length\\); console.log\\('demo nodes:', g.nodes.filter\\(n=>n.include_demo\\).length\\); console.log\\('demo edges:', g.edges.filter\\(e=>e.include_demo\\).length\\); const chains=[...new Set\\(g.nodes.map\\(n=>n.chain\\).filter\\(Boolean\\)\\)]; console.log\\('chains:', chains\\); const types=[...new Set\\(g.nodes.map\\(n=>n.source\\)\\)]; console.log\\('sources:', types\\);\")",
+      "Bash(node -e \"const g=JSON.parse\\(require\\('fs'\\).readFileSync\\('static/data/graph.json','utf8'\\)\\); console.log\\(JSON.stringify\\(g.edges[0], null, 2\\)\\); console.log\\('---'\\); console.log\\(JSON.stringify\\(g.edges[1], null, 2\\)\\);\")",
+      "Bash(node -e \"const g=JSON.parse\\(require\\('fs'\\).readFileSync\\('static/data/graph.json','utf8'\\)\\); const withSubtype=g.nodes.filter\\(n=>n.subtype\\); console.log\\('nodes with subtype:', withSubtype.length\\); if\\(withSubtype.length\\) console.log\\(JSON.stringify\\(withSubtype[0], null, 2\\)\\);\")",
+      "Bash(npm i *)",
+      "Bash(node -e \"const p=JSON.parse\\(require\\('fs'\\).readFileSync\\('package.json','utf8'\\)\\); console.log\\('d3 version:', p.dependencies.d3\\);\")",
+      "Bash(npm run *)",
+      "Bash(node -e ' *)",
+      "Bash(Get-Content \"C:\\\\Users\\\\user\\\\repos\\\\svelte\\\\atlas-mediaciones\\\\data\\\\raw\\\\relations.csv\")",
+      "Bash(Select-Object -Last 10)",
+      "PowerShell(Get-Content \"C:\\\\Users\\\\user\\\\repos\\\\svelte\\\\atlas-mediaciones\\\\data\\\\raw\\\\relations.csv\" | Select-Object -Last 10; $lines = \\(Get-Content \"C:\\\\Users\\\\user\\\\repos\\\\svelte\\\\atlas-mediaciones\\\\data\\\\raw\\\\relations.csv\"\\).Count; Write-Host \"Total lines: $lines\")",
+      "Bash(node -e \"const g = JSON.parse\\(require\\('fs'\\).readFileSync\\('static/data/graph.json','utf8'\\)\\); const balde = g.nodes.filter\\(n => n.label && n.label.toLowerCase\\(\\).includes\\('balde'\\)\\); const victorin = g.nodes.filter\\(n => n.label && \\(n.label.toLowerCase\\(\\).includes\\('victorin'\\) || n.label.toLowerCase\\(\\).includes\\('san victorino'\\)\\)\\); const giast = g.nodes.filter\\(n => n.label && n.label.toLowerCase\\(\\).includes\\('giast'\\)\\); console.log\\('BALDE:', JSON.stringify\\(balde\\)\\); console.log\\('VICTORIN:', JSON.stringify\\(victorin\\)\\); console.log\\('GIAST:', JSON.stringify\\(giast\\)\\);\")",
+      "Bash(node -e \"const p = require\\('./package.json'\\); console.log\\('openseadragon' in \\(p.dependencies||{}\\), 'deps:', JSON.stringify\\(p.dependencies\\)\\)\")",
+      "Bash(node -e \"const p = require\\('./package.json'\\); console.log\\('openseadragon:', p.dependencies.openseadragon\\)\")"
+    ]
+  }
+}

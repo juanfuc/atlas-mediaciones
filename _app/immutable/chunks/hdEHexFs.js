@@ -1,0 +1,1 @@
+import{F as e,S as t,b as n,f as r,l as i,tt as a,y as o,z as s}from"./5fYkVxqq.js";import"./v_jBEYI6.js";var c=t(`<span> </span>`);function l(t,l){let u={documentada:`doc.`,inferida:`inf.`,hipotetica:`hip.`};var d=c(),f=s(d,!0);a(d),e(()=>{r(d,1,`badge confidence-${l.conf??``}`,`svelte-1mlxb2j`),i(d,`title`,l.conf),o(f,u[l.conf]??l.conf)}),n(t,d)}export{l as t};
