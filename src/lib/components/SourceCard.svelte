@@ -1,4 +1,5 @@
 <script>
+	import { goto } from '$app/navigation';
 	import { base } from '$app/paths';
 	import ConfidenceBadge from './ConfidenceBadge.svelte';
 
@@ -24,9 +25,25 @@
 	const creator = $derived(
 		entity.creator_display || (entity.agent_ids?.length ? entity.agent_ids[0] : null)
 	);
+
+	const cardHref = $derived(`${base}/fuente/${entity.id}/`);
+
+	/** @param {KeyboardEvent} e */
+	function onCardKeydown(e) {
+		if (e.key === 'Enter' || e.key === ' ') {
+			e.preventDefault();
+			goto(cardHref);
+		}
+	}
 </script>
 
-<a href="{base}/fuente/{entity.id}/" class="card">
+<div
+	class="card"
+	onclick={() => goto(cardHref)}
+	onkeydown={onCardKeydown}
+	role="link"
+	tabindex="0"
+>
 	<div class="card-thumb">
 		{#if entity.image_url && !imgError}
 			<img
@@ -77,8 +94,18 @@
 				<div><dt>Sign.</dt><dd class="mono">{entity.signature}</dd></div>
 			{/if}
 		</dl>
+
+		{#if entity.source_url}
+			<a
+				href={entity.source_url}
+				target="_blank"
+				rel="noreferrer"
+				class="repo-link"
+				onclick={(e) => e.stopPropagation()}
+			>Repositorio ↗</a>
+		{/if}
 	</div>
-</a>
+</div>
 
 <style>
 	.card {
@@ -91,6 +118,7 @@
 		text-decoration: none;
 		align-items: flex-start;
 		transition: border-color 0.15s;
+		cursor: pointer;
 	}
 
 	.card:hover {
@@ -201,5 +229,20 @@
 	.mono {
 		font-family: var(--f-mono);
 		font-size: 0.7rem;
+	}
+
+	.repo-link {
+		display: inline-block;
+		margin-top: 0.45rem;
+		font-size: 0.75rem;
+		color: var(--c-secondary);
+		text-decoration: none;
+		border-bottom: 1px solid transparent;
+		transition: color 0.15s, border-color 0.15s;
+	}
+
+	.repo-link:hover {
+		color: var(--c-accent);
+		border-color: currentColor;
 	}
 </style>

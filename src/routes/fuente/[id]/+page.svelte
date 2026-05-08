@@ -165,6 +165,19 @@
 		</section>
 	{/if}
 
+	<!-- ── Fuente y acceso ───────────────────────────────────── -->
+	{#if data.entity.source_url}
+		<section class="section">
+			<h2 class="section-title">Fuente y acceso</h2>
+			<a
+				href={data.entity.source_url}
+				target="_blank"
+				rel="noreferrer"
+				class="source-url-link"
+			>Repositorio de custodia ↗</a>
+		</section>
+	{/if}
+
 	<!-- ── Relaciones salientes ──────────────────────────────── -->
 	{#if data.outgoing.length > 0}
 		<section class="section">
@@ -472,6 +485,19 @@
 	.reference {
 		font-style: italic;
 		color: var(--c-secondary);
+	}
+
+	.source-url-link {
+		font-size: 0.875rem;
+		color: var(--c-secondary);
+		text-decoration: none;
+		border-bottom: 1px solid transparent;
+		transition: color 0.15s, border-color 0.15s;
+	}
+
+	.source-url-link:hover {
+		color: var(--c-accent);
+		border-color: currentColor;
 	}
 
 	/* ── Relations ── */
