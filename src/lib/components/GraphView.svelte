@@ -42,7 +42,7 @@
 	};
 
 	// Labels always visible above this degree; others appear only on hover
-	const LABEL_MIN_DEGREE = 4;
+	const LABEL_MIN_DEGREE = 3;
 
 	// ── Graph filtering ───────────────────────────────────────────────────────────
 
@@ -69,9 +69,9 @@
 		return { filteredNodes: fn, filteredEdges: fe, noticeText };
 	}
 
-	// Radius proportional to degree
+	// Radius proportional to degree — base 6px, high-degree nodes reach ~16-22px
 	function nodeRadius(deg) {
-		return Math.pow(deg, 0.6) + 5;
+		return Math.pow(deg, 0.65) * 2 + 6;
 	}
 
 	// ── Force-directed rendering ──────────────────────────────────────────────────
@@ -152,7 +152,7 @@
 			.attr('r', (d) => nodeRadius(degree[d.id] ?? 0))
 			.attr('fill', (d) => (NODE_COLORS[d.source] ?? NODE_COLORS.unknown).fill)
 			.attr('stroke', (d) => (NODE_COLORS[d.source] ?? NODE_COLORS.unknown).stroke)
-			.attr('stroke-width', 1.5)
+			.attr('stroke-width', 2)
 			.style('cursor', 'pointer')
 			.attr('title', (d) => entityIdSet.has(d.id) ? 'Ctrl+clic para abrir ficha' : null)
 			.on('mouseover', function (event, d) {
@@ -196,7 +196,7 @@
 			.data(simNodes)
 			.join('text')
 			.attr('text-anchor', 'middle')
-			.attr('font-size', (d) => (degree[d.id] ?? 0) >= 10 ? '10px' : '8px')
+			.attr('font-size', (d) => (degree[d.id] ?? 0) >= 10 ? '11px' : '9px')
 			.attr('font-family', 'system-ui, sans-serif')
 			.attr('fill', '#1A1814')
 			.attr('pointer-events', 'none')

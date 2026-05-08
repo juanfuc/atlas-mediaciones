@@ -7,22 +7,26 @@
 		{
 			href: `${base}/repositorio`,
 			title: 'Repositorio',
-			desc: 'Tarjetas de fuentes con filtros por tipo, cadena y confianza.'
+			desc: 'Tarjetas de fuentes con filtros por tipo, cadena y confianza.',
+			img: `${base}/img/ui/home-repositorio.png`
 		},
 		{
 			href: `${base}/grafo`,
 			title: 'Grafo',
-			desc: 'Red de relaciones entre entidades, predicados y grados de evidencia.'
+			desc: 'Red de relaciones entre entidades, predicados y grados de evidencia.',
+			img: `${base}/img/ui/home-grafo.png`
 		},
 		{
 			href: `${base}/mapa`,
 			title: 'Mapa',
-			desc: 'Geografías de mediación superpuestas por rol de lugar.'
+			desc: 'Geografías de mediación superpuestas por rol de lugar.',
+			img: `${base}/img/ui/home-mapa.png`
 		},
 		{
 			href: `${base}/linea-tiempo`,
 			title: 'Línea de tiempo',
-			desc: 'Capas históricas del corpus desde el siglo XIX hasta la digitalización.'
+			desc: 'Capas históricas del corpus desde el siglo XIX hasta la digitalización.',
+			img: `${base}/img/ui/home-linea-tiempo.png`
 		}
 	];
 
@@ -63,8 +67,20 @@
 	<section class="views" aria-label="Vistas del atlas">
 		{#each views as view}
 			<a href={view.href} class="view-card">
-				<h2>{view.title}</h2>
-				<p>{view.desc}</p>
+				{#if view.img}
+					<div class="card-thumb">
+						<img
+							src={view.img}
+							alt="Vista previa: {view.title}"
+							loading="lazy"
+							onerror={(e) => { const t = e.currentTarget.closest('.card-thumb'); if (t) t.style.display = 'none'; }}
+						/>
+					</div>
+				{/if}
+				<div class="card-body">
+					<h2>{view.title}</h2>
+					<p>{view.desc}</p>
+				</div>
 			</a>
 		{/each}
 	</section>
@@ -162,9 +178,9 @@
 		display: block;
 		border: 1px solid var(--c-line);
 		border-radius: var(--radius);
-		padding: var(--sp-lg);
 		color: var(--c-text);
 		transition: border-color 0.15s;
+		overflow: hidden;
 	}
 
 	.view-card:hover {
@@ -172,15 +188,40 @@
 		text-decoration: none;
 	}
 
-	.view-card h2 {
+	.card-thumb {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		overflow: hidden;
+		background: var(--c-surface);
+		border-bottom: 1px solid var(--c-line);
+	}
+
+	.card-thumb img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		object-position: top center;
+		display: block;
+		transition: opacity 0.2s;
+	}
+
+	.view-card:hover .card-thumb img {
+		opacity: 0.88;
+	}
+
+	.card-body {
+		padding: var(--sp-md) var(--sp-lg);
+	}
+
+	.card-body h2 {
 		font-family: var(--f-serif);
-		font-size: 1.1rem;
-		margin-bottom: 0.4rem;
+		font-size: 1.05rem;
+		margin-bottom: 0.3rem;
 		color: var(--c-text);
 	}
 
-	.view-card p {
-		font-size: 0.875rem;
+	.card-body p {
+		font-size: 0.85rem;
 		color: var(--c-secondary);
 		margin: 0;
 		line-height: 1.5;

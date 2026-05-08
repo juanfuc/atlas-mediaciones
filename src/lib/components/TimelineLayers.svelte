@@ -175,7 +175,7 @@
 	<div class="main">
 		<div class="layers">
 			{#each visibleLayers as layer}
-				<section class="layer-band">
+				<section class="layer-band" style="--layer-c:{layerColor(layer)}">
 					<div class="layer-header">
 						<span class="layer-accent" style="background:{layerColor(layer)};"></span>
 						<h3 class="layer-title">{layerName(layer)}</h3>
@@ -295,18 +295,24 @@
 
 	.dot-row {
 		position: relative;
-		height: 10px;
+		height: 14px;
 	}
 
 	.ev-dot {
 		position: absolute;
-		width: 8px;
-		height: 8px;
+		width: 11px;
+		height: 11px;
 		border-radius: 50%;
 		top: 1px;
 		transform: translateX(-50%);
-		border: 1px solid rgba(255, 255, 255, 0.6);
+		border: 1px solid rgba(255, 255, 255, 0.7);
 		cursor: default;
+		transition: transform 0.12s;
+	}
+
+	.ev-dot:hover {
+		transform: translateX(-50%) scale(1.45);
+		border-color: rgba(255, 255, 255, 0.9);
 	}
 
 	/* SVG axis: just the line and tick marks, no text */
@@ -432,11 +438,12 @@
 
 	.event-item:hover {
 		background: var(--c-surface);
+		border-left-color: var(--layer-c, var(--c-accent));
 	}
 
 	.event-item.active {
 		background: var(--c-surface);
-		border-left-color: var(--c-accent);
+		border-left-color: var(--layer-c, var(--c-accent));
 	}
 
 	.event-year {
@@ -449,7 +456,7 @@
 	}
 
 	.event-label {
-		font-size: 0.85rem;
+		font-size: 0.875rem;
 		color: var(--c-text);
 		line-height: 1.4;
 	}
